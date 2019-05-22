@@ -2,7 +2,7 @@
 
 create properties.xml file with the following content (replace the xxx with appropriate information)
 
-
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
@@ -14,4 +14,4 @@ create properties.xml file with the following content (replace the xxx with appr
 
 
 </properties>
-
+```
