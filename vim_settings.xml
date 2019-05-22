@@ -1,0 +1,1823 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/ApprovedVideo.java" timestamp="1509941760124">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/tasksBody.jsp" timestamp="1534988087648">
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="71" column="123" />
+        <mark key="^" line="71" column="123" />
+        <mark key="." line="71" column="123" />
+      </file>
+      <file name="$USER_HOME$/Workspace/lectures/Spring2019/CSC365/outerjoins_etc.sql" timestamp="1556809954888">
+        <mark key="[" line="4" column="115" />
+      </file>
+      <file name="/a.dummy" timestamp="1558327830351">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtterance.java" timestamp="1510530792925">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/VideoTtml.java" timestamp="1508117299616">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/DiarizationDownloadService.java" timestamp="1541888455446">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/layout.xml" timestamp="1511050745115">
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="67" />
+        <mark key="." line="53" column="67" />
+        <mark key="^" line="53" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CreateUserService.java" timestamp="1512706793597">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ProgressReportController.java" timestamp="1512687287978">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomer.java" timestamp="1558326588357">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Transaction.java" timestamp="1554673706661">
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="67" column="111" />
+        <mark key="^" line="67" column="111" />
+        <mark key="." line="67" column="111" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/json/CustomJsonableSerializer.java" timestamp="1509950972090">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="50" column="23" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/approvedVideos.jsp" timestamp="1508534167850">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/unassignedTasks.jsp" timestamp="1509334285487">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/controller/LoginController.java" timestamp="1542349282500">
+        <mark key="[" line="35" column="70" />
+        <mark key="]" line="35" column="69" />
+        <mark key="^" line="35" column="69" />
+        <mark key="." line="35" column="69" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/VideoService.java" timestamp="1509950710055">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/LegislativeStaffMergeService.java" timestamp="1518053768711">
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="84" column="5" />
+        <mark key="." line="84" column="5" />
+        <mark key="^" line="84" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/config/local.config.properties" timestamp="1541047485555">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="27" column="105" />
+        <mark key="^" line="27" column="105" />
+        <mark key="." line="27" column="105" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtCuts.java" timestamp="1519769596577">
+        <mark key="[" line="177" column="18" />
+        <mark key="]" line="177" column="20" />
+        <mark key="." line="177" column="20" />
+        <mark key="^" line="177" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/DiscoveredVideo.java" timestamp="1509942238317">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/resources/properties/mysql-properties.xml" timestamp="1558337681619">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/manageTasks.js" timestamp="1521602039208">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
+        <mark key="[" line="104" column="29" />
+        <mark key="]" line="104" column="35" />
+        <mark key="^" line="104" column="35" />
+        <mark key="." line="104" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="74" column="55" />
+        <mark key="." line="74" column="55" />
+        <mark key="^" line="74" column="55" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/VideoRestController.java" timestamp="1512687860573">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/BillSuggestionsRestController.java" timestamp="1508893512663">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="33" column="64" />
+        <mark key="." line="34" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/pom.xml" timestamp="1542238193811">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/BillVoteDetailRepository.java" timestamp="1510359485034">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtServiceRequestsRepository.java" timestamp="1519958416061">
+        <mark key="[" line="11" column="105" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/House.java" timestamp="1510530603697">
+        <mark key="[" line="14" column="83" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/login.jsp" timestamp="1542247561255">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Author.java" timestamp="1508886538009">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/transcriptBody.jsp" timestamp="1519695143744">
+        <mark key="[" line="127" column="85" />
+        <mark key="]" line="127" column="85" />
+        <mark key="." line="127" column="85" />
+        <mark key="^" line="127" column="85" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/HelloServlet.java" timestamp="1542169125378">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
+        <mark key="^" line="21" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TranscribeClipService.java" timestamp="1507587273985">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/PropertyValues.java" timestamp="1525223988663">
+        <mark key="[" line="14" column="97" />
+        <mark key="]" line="14" column="97" />
+        <mark key="^" line="14" column="97" />
+        <mark key="." line="14" column="97" />
+      </file>
+      <file name="$USER_HOME$/Workspace/assignment2/src/CompliantNode.java" timestamp="1536792505292">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="10" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="37" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/HearingRestController.java" timestamp="1508805834653">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/LobbyistemploymentRepository.java" timestamp="1510350771430">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Vendor.java" timestamp="1554669322415">
+        <mark key="[" line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TaskedVideo.java" timestamp="1509942317501">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Generalpublic.java" timestamp="1518043771194">
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="31" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/css/tt-videos.css" timestamp="1538435719507">
+        <mark key="[" line="101" column="6" />
+        <mark key="]" line="101" column="6" />
+        <mark key="^" line="101" column="9" />
+        <mark key="." line="101" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Stateagencyreprepresentation.java" timestamp="1510526575526">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="114" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/entity/Customer.java" timestamp="1558305405942">
+        <mark key="[" line="75" column="84" />
+        <mark key="]" line="76" column="53" />
+        <mark key="." line="76" column="53" />
+        <mark key="^" line="76" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/BillRestController.java" timestamp="1530342234233">
+        <mark key="[" line="74" column="54" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="75" column="25" />
+        <mark key="^" line="75" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/HelloServlet.java" timestamp="1542174001715">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/VideoRepository.java" timestamp="1538445846840">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/UtteranceRepository.java" timestamp="1534725691953">
+        <mark key="[" line="74" column="79" />
+      </file>
+      <file name="$USER_HOME$/Workspace/lectures/Spring2019/CPE202/sort.py" timestamp="1556910028543">
+        <mark key="[" line="85" column="54" />
+        <mark key="]" line="85" column="56" />
+        <mark key="^" line="85" column="56" />
+        <mark key="." line="85" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/WitnessRepository.java" timestamp="1518056865934">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/PaymentCollection.java" timestamp="1554615754451">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="35" column="1" />
+        <mark key="^" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtteranceId.java" timestamp="1510530816756">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/RekognitionCallbackRestController.java" timestamp="1541901730445">
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="91" column="31" />
+        <mark key="." line="91" column="31" />
+        <mark key="^" line="91" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCurrentCutsRestController.java" timestamp="1512687794884">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/LegislatorMergeService.java" timestamp="1512695172006">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="91" column="3" />
+        <mark key="." line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CreateVideosService.java" timestamp="1507598690711">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="64" column="2" />
+        <mark key="^" line="64" column="2" />
+        <mark key="." line="64" column="2" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/service/PersonManager.java" timestamp="1542348140933">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TaskGenerationService.java" timestamp="1546317163721">
+        <mark key="[" line="782" column="29" />
+        <mark key="]" line="782" column="29" />
+        <mark key="." line="782" column="29" />
+        <mark key="^" line="782" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/tmpl/manageTasks-tmpl.jsp" timestamp="1513662189836">
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="104" />
+        <mark key="." line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/LobbyistMergeService.java" timestamp="1512695223154">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TranscribeCutRestController.java" timestamp="1538368503599">
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="5" />
+        <mark key="^" line="74" column="5" />
+        <mark key="." line="74" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/common.jsp" timestamp="1534818054234">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="6" />
+        <mark key="^" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/assignment3/src/BlockChain.java" timestamp="1537493086370">
+        <mark key="[" line="132" column="38" />
+        <mark key="]" line="272" column="5" />
+        <mark key="^" line="272" column="5" />
+        <mark key="." line="272" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtSpeakerPrediction.java" timestamp="1508909055044">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SystemDateService.java" timestamp="1509135706161">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/LobbyistdirectemploymentRepository.java" timestamp="1510350621075">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/VideoDownloadCallbackRestController.java" timestamp="1512687851987">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/tmpl/videos-common-tmpl.jsp" timestamp="1511848237405">
+        <mark key="[" line="2" column="90" />
+        <mark key="]" line="2" column="90" />
+        <mark key="^" line="2" column="90" />
+        <mark key="." line="2" column="90" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtTaskRepository.java" timestamp="1534737090425">
+        <mark key="[" line="93" column="36" />
+        <mark key="]" line="93" column="36" />
+        <mark key="^" line="93" column="36" />
+        <mark key="." line="93" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Customers.java" timestamp="1554146424738">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/CreatedUser.java" timestamp="1510010749484">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TaskCountStatsDto.java" timestamp="1534737254969">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerTableModel.java" timestamp="1558501575553">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="49" />
+        <mark key="^" line="148" column="32" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/StateRepository.java" timestamp="1509927816027">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/Workspace/javaxservletapi/pom.xml" timestamp="1541556543950">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="8" />
+        <mark key="^" line="79" column="18" />
+        <mark key="." line="79" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Person.java" timestamp="1518051623364">
+        <mark key="[" line="96" column="16" />
+        <mark key="]" line="98" column="3" />
+        <mark key="^" line="90" column="50" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/videosCommon.jsp" timestamp="1510181668874">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ajax/ImportWitnessListController.java" timestamp="1513397175704">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="41" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/header.jsp" timestamp="1529047170894">
+        <mark key="[" line="110" column="20" />
+        <mark key="]" line="110" column="19" />
+        <mark key="^" line="110" column="19" />
+        <mark key="." line="110" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/tmpl/transcript-tmpl.jsp" timestamp="1521687304214">
+        <mark key="[" line="242" column="101" />
+        <mark key="]" line="242" column="118" />
+        <mark key="^" line="242" column="118" />
+        <mark key="." line="242" column="118" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/discoveredVideos.jsp" timestamp="1508534148770">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="61" />
+        <mark key="^" line="3" column="61" />
+        <mark key="." line="3" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateAgencyRepMergeService.java" timestamp="1518053636999">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="59" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="44" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/ManageTasksTtTaskDto.java" timestamp="1513660044941">
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="54" column="22" />
+        <mark key="^" line="54" column="22" />
+        <mark key="." line="54" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerFrame.java" timestamp="1558501591698">
+        <mark key="[" line="259" column="17" />
+        <mark key="]" line="259" column="19" />
+        <mark key="^" line="259" column="19" />
+        <mark key="." line="259" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Customer.java" timestamp="1554612775953">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="74" />
+        <mark key="^" line="65" column="74" />
+        <mark key="." line="65" column="74" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Leganalystoffice.java" timestamp="1510526744900">
+        <mark key="[" line="14" column="94" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/JDBCTutorial/src/com/oracle/tutorial/jdbc/CoffeesFrame.java" timestamp="1558452531683">
+        <mark key="[" line="288" column="94" />
+        <mark key="]" line="288" column="93" />
+        <mark key="^" line="288" column="93" />
+        <mark key="." line="288" column="93" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/InitialUtteranceRepository.java" timestamp="1510532069009">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/discoveredVideosScripts.jsp" timestamp="1513662557999">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/EntityMergerBase.java" timestamp="1510187674380">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/BilldiscussionRepository.java" timestamp="1512111790634">
+        <mark key="[" line="16" column="94" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyist.java" timestamp="1510526946004">
+        <mark key="[" line="11" column="88" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtLegislativeStaff.java" timestamp="1521678751156">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtVideosRestController.java" timestamp="1521947080276">
+        <mark key="[" line="66" column="64" />
+        <mark key="]" line="66" column="64" />
+        <mark key="." line="66" column="64" />
+        <mark key="^" line="81" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/manualDownloadVideoScripts.jsp" timestamp="1509933236218">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/HttpServletRequestService.java" timestamp="1512695063487">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="81" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/OrganizationMergeService.java" timestamp="1512695296770">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="88" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/WitnessOrganizationsRepository.java" timestamp="1517985531021">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtBilldiscussionRepository.java" timestamp="1529897108047">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="9" column="79" />
+        <mark key="^" line="11" column="77" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Session.java" timestamp="1508022782315">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/ConnectionFactory.java" timestamp="1558338106662">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/ConstitutionalOfficeMergeService.java" timestamp="1510207688885">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtCutsRepository.java" timestamp="1538449824588">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="78" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ajax/ImportPotentialController.java" timestamp="1526929271001">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="6" column="65" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/WitnessOrganizations.java" timestamp="1517985635634">
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="81" />
+        <mark key="^" line="14" column="81" />
+        <mark key="." line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/service/SessionManager.java" timestamp="1542257172593">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCommand.java" timestamp="1558338264352">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/TtConfiguration.java" timestamp="1507506353948">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Ownership.java" timestamp="1554615605282">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="38" column="106" />
+        <mark key="^" line="38" column="106" />
+        <mark key="." line="38" column="106" />
+      </file>
+      <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/Token.java" timestamp="1545785873545">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="25" column="68" />
+        <mark key="^" line="25" column="68" />
+        <mark key="." line="25" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TranscriptCallbackResult.java" timestamp="1509942519560">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="58" />
+        <mark key="^" line="3" column="58" />
+        <mark key="." line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/VFTRestController.java" timestamp="1508821385463">
+        <mark key="[" line="90" column="30" />
+        <mark key="]" line="90" column="38" />
+        <mark key="^" line="90" column="38" />
+        <mark key="." line="90" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/Emailer.java" timestamp="1508025820276">
+        <mark key="[" line="83" column="3" />
+        <mark key="]" line="108" column="2" />
+        <mark key="^" line="108" column="2" />
+        <mark key="." line="108" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TaskedVideoRestController.java" timestamp="1520131917828">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/Utility.java" timestamp="1513398801140">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="42" />
+        <mark key="^" line="71" column="42" />
+        <mark key="." line="71" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ManualDownloadVideoController.java" timestamp="1521947170505">
+        <mark key="[" line="107" column="6" />
+        <mark key="]" line="107" column="6" />
+        <mark key="^" line="107" column="11" />
+        <mark key="." line="107" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557985686835">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LogoutServlet.java" timestamp="1542259148250">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/RestAPICallService.java" timestamp="1521952620764">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/config/config.properties" timestamp="1541704626179">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="102" />
+        <mark key="^" line="22" column="102" />
+        <mark key="." line="22" column="102" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/AuthorId.java" timestamp="1508886286675">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/LobbyistEmploymentMergeService.java" timestamp="1512695214694">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="39" column="48" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/webapp/WEB-INF/views/account.jsp" timestamp="1542344712216">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="6" />
+        <mark key="^" line="22" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/manageUsersBody.jsp" timestamp="1523939802377">
+        <mark key="[" line="159" column="6" />
+        <mark key="]" line="165" column="5" />
+        <mark key="." line="165" column="5" />
+        <mark key="^" line="165" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TranscribeRequestDto.java" timestamp="1538368009895">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/javaxservletapi/src/main/java/com/calpoly/test/MyServlet.java" timestamp="1541557202315">
+        <mark key="[" line="10" column="171" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/approvedVideosScript.jsp" timestamp="1508532185864">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="77" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomerImpl.java" timestamp="1558327773055">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/Grammar.java" timestamp="1550445938183">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/RetrieveRekognitionService.java" timestamp="1541822047525">
+        <mark key="[" line="35" column="49" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/AuthorRepository.java" timestamp="1510356975224">
+        <mark key="[" line="10" column="88" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="9" column="98" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/WitnessOrganizationsId.java" timestamp="1517987365324">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/VFTCallbackRestController.java" timestamp="1541645313404">
+        <mark key="[" line="227" column="54" />
+        <mark key="]" line="227" column="59" />
+        <mark key="." line="227" column="59" />
+        <mark key="^" line="227" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/CustomerCollection.java" timestamp="1554617694537">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TaskedHearing.java" timestamp="1508798885167">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/createUserBody.jsp" timestamp="1510102127556">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="7" column="93" />
+        <mark key="^" line="7" column="93" />
+        <mark key="." line="7" column="93" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/EntityMerger.java" timestamp="1510126680707">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+      </file>
+      <file name="/fragment.java" timestamp="1558458706272">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
+        <mark key="[" line="191" column="34" />
+        <mark key="]" line="191" column="34" />
+        <mark key="^" line="191" column="34" />
+        <mark key="." line="191" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/OwnershipCollection.java" timestamp="1554615792396">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/tmpl/cuts-tmpl.jsp" timestamp="1519773204406">
+        <mark key="[" line="110" column="108" />
+        <mark key="]" line="110" column="108" />
+        <mark key="^" line="110" column="112" />
+        <mark key="." line="110" column="108" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/CallResult.java" timestamp="1521937702041">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/service/PersonManager.java" timestamp="1542258448439">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyistrepresentation.java" timestamp="1510527000429">
+        <mark key="[" line="9" column="100" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CombinedRepresentationsMergeService.java" timestamp="1512695006042">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="33" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/Dao.java" timestamp="1558292844329">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/GeneralpublicRepository.java" timestamp="1518056136287">
+        <mark key="[" line="55" column="72" />
+        <mark key="]" line="55" column="71" />
+        <mark key="^" line="55" column="71" />
+        <mark key="." line="55" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/AccountServlet.java" timestamp="1542253912991">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/VideoTtmlRepository.java" timestamp="1508117080593">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+        <mark key="." line="14" column="79" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/UnassignedTaskController.java" timestamp="1513654084113">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="40" column="65" />
+        <mark key="^" line="40" column="65" />
+        <mark key="." line="40" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ajax/daoaccess/PersonController.java" timestamp="1510046353777">
+        <mark key="[" line="64" column="33" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="65" column="49" />
+        <mark key="." line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/LegStaffGiftsRepository.java" timestamp="1510365788136">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/SessionId.java" timestamp="1508108204828">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/DiarizationCallbackRestController.java" timestamp="1541888657724">
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="40" />
+        <mark key="." line="74" column="40" />
+        <mark key="^" line="74" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/CreditCard.java" timestamp="1554616016961">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="^" line="59" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/resources/application.properties" timestamp="1520333012263">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/Grammer.java" timestamp="1545339731307">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/controller/AccountController.java" timestamp="1542346601767">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/manageEntitiesBody.jsp" timestamp="1510175573819">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Leganalystofficerepresentation.java" timestamp="1510526812503">
+        <mark key="[" line="9" column="108" />
+        <mark key="]" line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/GeneralpublicOidMergeService.java" timestamp="1512688131892">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="5" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Legislativestaff.java" timestamp="1510527325753">
+        <mark key="[" line="14" column="94" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TranscribeVideoService.java" timestamp="1538445106579">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/RegisterServlet.java" timestamp="1542255927100">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LoginServlet.java" timestamp="1542257077046">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TasksService.java" timestamp="1509411864117">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="53" column="31" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackAnalyzer.java" timestamp="1545793006658">
+        <mark key="[" line="16" column="73" />
+        <mark key="]" line="16" column="76" />
+        <mark key="." line="16" column="76" />
+        <mark key="^" line="16" column="76" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyingcontracts.java" timestamp="1510528321800">
+        <mark key="[" line="9" column="95" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/pom.xml" timestamp="1542422482982">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
+        <mark key="[" line="74" column="33" />
+        <mark key="]" line="74" column="33" />
+        <mark key="." line="74" column="33" />
+        <mark key="^" line="74" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/VendorCollection.java" timestamp="1554158863042">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/VFTData.java" timestamp="1509942638823">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ajax/TaskedVideoController.java" timestamp="1509577613017">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/json/TTJsonManager.java" timestamp="1508633010166">
+        <mark key="[" line="156" column="33" />
+        <mark key="]" line="156" column="74" />
+        <mark key="^" line="156" column="74" />
+        <mark key="." line="156" column="74" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/DiscoveredVideosController.java" timestamp="1521946915998">
+        <mark key="[" line="131" column="12" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="129" column="41" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/project10/src/com/tk/JackAnalyzer.java" timestamp="1545273870688">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/hello.jsp" timestamp="1542174471060">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateAgencyRepRepresentationMergeService.java" timestamp="1510191808694">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/manualDownloadVideo.jsp" timestamp="1509925852092">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/manageEntities.jsp" timestamp="1510030569210">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/model/Person.java" timestamp="1542344892491">
+        <mark key="[" line="47" column="3" />
+        <mark key="]" line="51" column="2" />
+        <mark key="^" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/VFTCallbackResult.java" timestamp="1509942539687">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/SessionRepository.java" timestamp="1507610514697">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="55" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Payment.java" timestamp="1554150861652">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="25" column="2" />
+        <mark key="^" line="25" column="2" />
+        <mark key="." line="25" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/VideosStatus.java" timestamp="1508742387060">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtExample.java" timestamp="1557983914801">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtMoviesExample.java" timestamp="1558020169194">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="35" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="38" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CachedDao.java" timestamp="1558500048315">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/account.jsp" timestamp="1542254162558">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Gift.java" timestamp="1510364926350">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/BillType.java" timestamp="1508546066613">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtSpeakerPredictionRepository.java" timestamp="1541736653102">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/state_filter.js" timestamp="1513655297630">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/TTController.java" timestamp="1509844719343">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/OrganizationsRepository.java" timestamp="1510046980796">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/PersonRepository.java" timestamp="1538448091065">
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="76" column="56" />
+        <mark key="^" line="76" column="56" />
+        <mark key="." line="76" column="56" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/transcriptScripts.jsp" timestamp="1534985910797">
+        <mark key="[" line="7" column="90" />
+        <mark key="]" line="7" column="93" />
+        <mark key="^" line="7" column="93" />
+        <mark key="." line="7" column="93" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/webapp/WEB-INF/login-servlet.xml" timestamp="1542343940446">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/Grammar.java" timestamp="1545525251958">
+        <mark key="[" line="66" column="5" />
+        <mark key="]" line="66" column="36" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="66" column="36" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/ClassifiedPerson.java" timestamp="1513398201089">
+        <mark key="[" line="106" column="47" />
+        <mark key="]" line="106" column="47" />
+        <mark key="." line="106" column="47" />
+        <mark key="^" line="106" column="47" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/unassignedTasksBody.jsp" timestamp="1513659010866">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="25" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyingfirm.java" timestamp="1510527161723">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/spinner.js" timestamp="1534820410571">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/OrganizationRestController.java" timestamp="1512687544341">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/ManageEntitiesService.java" timestamp="1512696325981">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="87" column="31" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/pom.xml" timestamp="1558479238493">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtProtoUtteranceRepository.java" timestamp="1525658151728">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="15" column="79" />
+        <mark key="." line="15" column="79" />
+        <mark key="^" line="15" column="79" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/JSONStreamReader.java" timestamp="1509684919139">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/BillSponsors.java" timestamp="1510366481974">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="87" />
+        <mark key="^" line="14" column="64" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/pom.xml" timestamp="1509840799692">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="51" column="10" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/BillDiscussionRestController.java" timestamp="1528158136668">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="143" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/CreateUsersController.java" timestamp="1512687193822">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+        <mark key="^" line="87" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/taglibs.jsp" timestamp="1509854424430">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="8" column="116" />
+        <mark key="." line="8" column="116" />
+        <mark key="^" line="8" column="116" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/ManageOrganizationDto.java" timestamp="1510534358990">
+        <mark key="[" line="27" column="61" />
+        <mark key="]" line="27" column="61" />
+        <mark key="^" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyistemployment.java" timestamp="1510528247013">
+        <mark key="[" line="9" column="96" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Term.java" timestamp="1510527421552">
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoManager.java" timestamp="1558405818919">
+        <mark key="'" line="14" column="27" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="64" column="1" />
+        <mark key="^" line="64" column="1" />
+        <mark key="." line="64" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SecurityService.java" timestamp="1512706732556">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/VideoDownloadCallback.java" timestamp="1508823132594">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/TasksController.java" timestamp="1534739072317">
+        <mark key="[" line="61" column="88" />
+        <mark key="]" line="62" column="3" />
+        <mark key="." line="62" column="3" />
+        <mark key="^" line="62" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/videos_common.js" timestamp="1529978544434">
+        <mark key="[" line="66" column="14" />
+        <mark key="]" line="66" column="19" />
+        <mark key="." line="66" column="19" />
+        <mark key="^" line="66" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/BillVoteSummary.java" timestamp="1510358474153">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Parser.java" timestamp="1554673093097">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/CombinedRepresentations.java" timestamp="1510531314370">
+        <mark key="[" line="75" column="18" />
+        <mark key="]" line="75" column="21" />
+        <mark key="^" line="75" column="21" />
+        <mark key="." line="75" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/VMLanguage.java" timestamp="1548629373959">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="34" column="4" />
+        <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Stateconstofficereprepresentation.java" timestamp="1510526687132">
+        <mark key="[" line="9" column="111" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/ManageEntitiesDto.java" timestamp="1510033695302">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/CreditCardCollection.java" timestamp="1554617189085">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/MvcConfiguration.java" timestamp="1509491227592">
+        <mark key="[" line="52" column="45" />
+        <mark key="]" line="55" column="7" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/JackCompiler.java" timestamp="1548097625101">
+        <mark key="[" line="44" column="87" />
+        <mark key="]" line="49" column="6" />
+        <mark key="^" line="49" column="6" />
+        <mark key="." line="49" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateconstofficerepMergeService.java" timestamp="1512695612713">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="64" column="69" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/CombinedRepresentationsRepository.java" timestamp="1510531573803">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TtVideosService.java" timestamp="1538436811407">
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="40" />
+        <mark key="." line="94" column="40" />
+        <mark key="^" line="94" column="40" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Billdiscussion.java" timestamp="1528236502800">
+        <mark key="[" line="200" column="36" />
+        <mark key="]" line="201" column="6" />
+        <mark key="^" line="201" column="6" />
+        <mark key="." line="201" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/HearingAgendaId.java" timestamp="1530131919835">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtVideosCaption.java" timestamp="1518476837238">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="^" line="44" column="5" />
+        <mark key="." line="54" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyingfirmstate.java" timestamp="1510527213704">
+        <mark key="[" line="11" column="95" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/PersonstateaffiliationMergeService.java" timestamp="1512695347498">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="33" column="70" />
+        <mark key="^" line="33" column="70" />
+        <mark key="." line="33" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/table_filter.js" timestamp="1513658589356">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/properties/mysql-properties.xml" timestamp="1558501827537">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/resources/properties.xml" timestamp="1558337537865">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/LegAnalystOfficeMergeService.java" timestamp="1512695083623">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="45" column="49" />
+        <mark key="." line="45" column="49" />
+        <mark key="^" line="45" column="49" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/BillRepository.java" timestamp="1557975635954">
+        <mark key="[" line="25" column="107" />
+        <mark key="]" line="21" column="108" />
+        <mark key="^" line="21" column="108" />
+        <mark key="." line="21" column="108" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ApproveCutsController.java" timestamp="1507584102792">
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="87" column="6" />
+        <mark key="." line="87" column="6" />
+        <mark key="^" line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerCachedDaoImpl.java" timestamp="1558406448397">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/BillVoteDetail.java" timestamp="1510367472916">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="31" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtVideos.java" timestamp="1538436952110">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/WEB-INF/web.xml" timestamp="1542260529881">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="26" />
+        <mark key="." line="47" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myspringmvctest/pom.xml" timestamp="1542329694048">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/TransactionCollection.java" timestamp="1554674900429">
+        <mark key="[" line="45" column="3" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/register.jsp" timestamp="1542247871923">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/ApproveVideoService.java" timestamp="1535507551249">
+        <mark key="[" line="224" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/form/CustomerForm.java" timestamp="1558313640602">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtBillDiscussionRestController.java" timestamp="1529897288400">
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ManageUsersController.java" timestamp="1525663308455">
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="83" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/styles/approvedVideosStyles.jsp" timestamp="1509140590678">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="60" />
+        <mark key="^" line="1" column="60" />
+        <mark key="." line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerDaoImpl.java" timestamp="1558327948936">
+        <mark key="'" line="142" column="51" />
+        <mark key="[" line="178" column="27" />
+        <mark key="]" line="178" column="44" />
+        <mark key="^" line="178" column="44" />
+        <mark key="." line="178" column="44" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/HearingAgenda.java" timestamp="1530131927578">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/PersonService.java" timestamp="1513400568230">
+        <mark key="[" line="155" column="102" />
+        <mark key="]" line="155" column="102" />
+        <mark key="." line="155" column="102" />
+        <mark key="^" line="155" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/TransctionComparator.java" timestamp="1554406654861">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Legislator.java" timestamp="1510527270264">
+        <mark key="[" line="18" column="88" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/webapp/WEB-INF/web.xml" timestamp="1542405838632">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/TtServiceRequests.java" timestamp="1535837781249">
+        <mark key="[" line="55" column="13" />
+        <mark key="]" line="56" column="18" />
+        <mark key="^" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/index.jsp" timestamp="1542174518117">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCached.java" timestamp="1558327732907">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/videosMenu.jsp" timestamp="1509601796373">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Lobbyistdirectemployment.java" timestamp="1510528298980">
+        <mark key="[" line="9" column="102" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="59" column="4" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="67" column="6" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="168" column="8" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="25" column="27" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="12" column="6" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="163" column="73" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="114" column="2" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="194" column="12" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="178" column="5" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="229" column="21" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="39" column="28" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="40" column="11" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="276" column="23" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="13" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/SymbolTable.java" />
+      <jump line="11" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/SymbolTable.java" />
+      <jump line="33" column="14" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/VMWriter.java" />
+      <jump line="63" column="33" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="195" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="246" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="59" column="17" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="138" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="171" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="31" column="56" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="720" column="35" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="370" column="36" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="380" column="34" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="423" column="31" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="326" column="6" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="362" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="425" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="483" column="9" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="536" column="34" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="320" column="105" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="243" column="5" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="529" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="444" column="35" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="360" column="46" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="364" column="47" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="489" column="46" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="727" column="46" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="732" column="47" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="749" column="30" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="698" column="39" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="244" column="2" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="675" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="676" column="5" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="684" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="683" column="58" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="205" column="57" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="277" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="337" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="381" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="414" column="6" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="439" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="486" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="506" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="594" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="595" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="582" column="9" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="734" column="47" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="741" column="46" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="658" column="28" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="540" column="13" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="551" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="573" column="21" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="605" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="689" column="56" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="377" column="57" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="616" column="42" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="634" column="42" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="642" column="40" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="695" column="25" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="696" column="58" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="736" column="56" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="345" column="58" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="212" column="57" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="505" column="4" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="633" column="12" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="651" column="6" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="680" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="704" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="709" column="18" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="376" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="382" column="11" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="635" column="17" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="636" column="19" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/JackTokenizer.java" />
+      <jump line="40" column="6" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="173" column="7" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
+      <jump line="155" column="17" filename="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Main.java" />
+      <jump line="41" column="7" filename="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtStarsExample.java" />
+      <jump line="55" column="14" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerDaoImpl.java" />
+      <jump line="67" column="3" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerDaoImpl.java" />
+      <jump line="106" column="51" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerDaoImpl.java" />
+      <jump line="15" column="27" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoManager.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>i</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxJdOKAmXNcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC5hYnNvbHV0ZShyb3dJbmRleCArIDEpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC5hYnNvbHV0ZShyb3dJbmRleCArIDEpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMubWV0YWRhdGEuZ2V0Q29sdW1uQ2xhc3NOYW1lKGNvbHVtbkluZGV4KzEpKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>1</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxJdOKAmXNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxJdOKAmXNcPg==</last-pattern>
+      <last-replace>nextLine</last-replace>
+      <last-substitute>next</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>writeCall</entry>
+        <entry>TEMP</entry>
+        <entry>popA</entry>
+        <entry>compileSub</entry>
+        <entry>callSub</entry>
+        <entry>callSubroutine</entry>
+        <entry>Memory</entry>
+        <entry>writeKeyword</entry>
+        <entry>that</entry>
+        <entry>THAT</entry>
+        <entry>Term</entry>
+        <entry>writeKeywordCons</entry>
+        <entry>kindOf</entry>
+        <entry>writeSubroutineCall</entry>
+        <entry>compileSubroutineCall</entry>
+        <entry>writeSet</entry>
+        <entry>;</entry>
+        <entry>constructor</entry>
+        <entry>next</entry>
+        <entry encoding="base64">XDxJdOKAmXNcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>445</entry>
+        <entry>311</entry>
+        <entry>738</entry>
+        <entry>545</entry>
+        <entry>309</entry>
+        <entry>202</entry>
+        <entry>162</entry>
+        <entry>964</entry>
+        <entry>%s/utteranceBlock/transcriptionBlock/g</entry>
+        <entry>q!</entry>
+        <entry>w</entry>
+        <entry>%s/Grammer/VMLanguage/g</entry>
+        <entry>%s/Grammar/VMLanguage/g</entry>
+        <entry>%s/VMLanguage/Grammar/g</entry>
+        <entry>%s/bufferedWriter/vmWriter/g</entry>
+        <entry>%s/writeType/getType/g</entry>
+        <entry>41</entry>
+        <entry>wq</entry>
+        <entry>%s/next/nextLine/g</entry>
+        <entry>1</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
