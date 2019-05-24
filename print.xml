@@ -1,7 +1,7 @@
 <application>
   <component name="PrintSettings">
-    <option name="printScope" value="4" />
-    <option name="SYNTAX_PRINTING" value="false" />
+    <option name="printScope" value="1" />
+    <option name="COLOR_PRINTING" value="true" />
     <option name="PRINT_AS_GRAPHICS" value="false" />
     <option name="FONT_NAME" value="Courier" />
     <option name="FONT_SIZE" value="8" />
