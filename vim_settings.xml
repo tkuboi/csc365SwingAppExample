@@ -1434,10 +1434,10 @@
         <mark key="^" line="49" column="6" />
         <mark key="." line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/customer.jsp" timestamp="1558913432155">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/customer.jsp" timestamp="1558914430503">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
         <mark key="^" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateconstofficerepMergeService.java" timestamp="1512695612713">
@@ -1773,11 +1773,11 @@
       <jump line="15" column="27" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
