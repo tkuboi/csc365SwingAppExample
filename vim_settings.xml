@@ -1403,6 +1403,12 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
+      <file name="$USER_HOME$/Workspace/webappexample1/pom.xml" timestamp="1558904003679">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="^" line="33" column="18" />
+        <mark key="." line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Billdiscussion.java" timestamp="1528236502800">
         <mark key="[" line="200" column="36" />
         <mark key="]" line="201" column="6" />
@@ -1713,10 +1719,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
