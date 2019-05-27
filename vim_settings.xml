@@ -15,12 +15,6 @@
         <mark key="^" line="71" column="123" />
         <mark key="." line="71" column="123" />
       </file>
-      <file name="$USER_HOME$/Workspace/lectures/Spring2019/CSC365/outerjoins_etc.sql" timestamp="1556809954888">
-        <mark key="[" line="4" column="115" />
-      </file>
-      <file name="/a.dummy" timestamp="1558904880237">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtterance.java" timestamp="1510530792925">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="30" />
@@ -250,9 +244,6 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Vendor.java" timestamp="1554669322415">
-        <mark key="[" line="36" column="3" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TaskedVideo.java" timestamp="1509942317501">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="33" column="42" />
@@ -300,9 +291,6 @@
         <mark key="]" line="18" column="27" />
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/UtteranceRepository.java" timestamp="1534725691953">
-        <mark key="[" line="74" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/lectures/Spring2019/CPE202/sort.py" timestamp="1556910028543">
         <mark key="[" line="85" column="54" />
@@ -435,9 +423,6 @@
         <mark key="]" line="93" column="36" />
         <mark key="^" line="93" column="36" />
         <mark key="." line="93" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Customers.java" timestamp="1554146424738">
-        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
         <mark key="[" line="2" column="40" />
@@ -777,9 +762,6 @@
         <mark key="^" line="42" column="33" />
         <mark key="." line="42" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/javaxservletapi/src/main/java/com/calpoly/test/MyServlet.java" timestamp="1541557202315">
-        <mark key="[" line="10" column="171" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/approvedVideosScript.jsp" timestamp="1508532185864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -797,6 +779,12 @@
         <mark key="]" line="54" column="14" />
         <mark key="." line="54" column="14" />
         <mark key="^" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/META-INF/context.xml" timestamp="1558923104517">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="31" column="9" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/RetrieveRekognitionService.java" timestamp="1541822047525">
         <mark key="[" line="35" column="49" />
@@ -852,9 +840,6 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1558458706272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
         <mark key="[" line="191" column="34" />
         <mark key="]" line="191" column="34" />
@@ -896,9 +881,6 @@
         <mark key="]" line="33" column="52" />
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/Dao.java" timestamp="1558292844329">
-        <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/GeneralpublicRepository.java" timestamp="1518056136287">
         <mark key="[" line="55" column="72" />
@@ -1573,9 +1555,6 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/ApproveVideoService.java" timestamp="1535507551249">
-        <mark key="[" line="224" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/form/CustomerForm.java" timestamp="1558313640602">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="3" column="1" />
@@ -1624,9 +1603,6 @@
         <mark key="]" line="155" column="102" />
         <mark key="." line="155" column="102" />
         <mark key="^" line="155" column="59" />
-      </file>
-      <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/TransctionComparator.java" timestamp="1554406654861">
-        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Legislator.java" timestamp="1510527270264">
         <mark key="[" line="18" column="88" />
@@ -1774,11 +1750,11 @@
       <jump line="72" column="2" filename="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/DaoManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
@@ -1787,34 +1763,34 @@
         <text encoding="base64">ICAgIHJlcXVlc3Quc2V0QXR0cmlidXRlKCJjdXN0b21lcnMiLCBjdXN0bGlzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3BlbigpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MgPSBwcm9wLmdldFByb3BlcnR5KCJwYXNzIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBwcm9wLmdldFByb3BlcnR5KCJ1c2VyIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHByb3AuZ2V0UHJvcGVydHkoInVybCIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRyaXZlciA9IHByb3AuZ2V0UHJvcGVydHkoImRyaXZlciIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB1cmw9ImpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9zZWMwM2dyb3VwMDEiLz4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB1c2VybmFtZT0ic2VjMDNncm91cDAxIiBwYXNzd29yZD0iZ3JvdXAwMUBzZWMwMyIgZHJpdmVyQ2xhc3NOYW1lPSJjb20ubXlzcWwuamRiYy5Ecml2ZXIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBtYXhUb3RhbD0iMTAwIiBtYXhJZGxlPSIzMCIgbWF4V2FpdE1pbGxpcz0iMTAwMDAiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxSZXNvdXJjZSBuYW1lPSJqZGJjL3NlYzAzZ3JvdXAwMSIgYXV0aD0iQ29udGFpbmVyIiB0eXBlPSJqYXZheC5zcWwuRGF0YVNvdXJjZSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxXYXRjaGVkUmVzb3VyY2U+JHtjYXRhbGluYS5iYXNlfS9jb25mL3dlYi54bWw8L1dhdGNoZWRSZXNvdXJjZT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxXYXRjaGVkUmVzb3VyY2U+V0VCLUlORi93ZWIueG1sPC9XYXRjaGVkUmVzb3VyY2U+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3AubG9hZEZyb21YTUwoZmlzKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -1868,8 +1844,8 @@
         <entry>%s/writeType/getType/g</entry>
         <entry>41</entry>
         <entry>%s/next/nextLine/g</entry>
-        <entry>1</entry>
         <entry>wq</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
