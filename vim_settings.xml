@@ -15,6 +15,9 @@
         <mark key="^" line="71" column="123" />
         <mark key="." line="71" column="123" />
       </file>
+      <file name="/a.dummy" timestamp="1559151591636">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtterance.java" timestamp="1510530792925">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="30" />
@@ -33,11 +36,11 @@
         <mark key="^" line="53" column="42" />
         <mark key="." line="53" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/ConnectionFactory.java" timestamp="1558922092296">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="60" />
-        <mark key="." line="12" column="60" />
-        <mark key="^" line="13" column="61" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/ConnectionFactory.java" timestamp="1559151711065">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/layout.xml" timestamp="1511050745115">
         <mark key="[" line="53" column="58" />
@@ -57,12 +60,11 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/DaoManager.java" timestamp="1558924760777">
-        <mark key="'" line="45" column="2" />
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="34" column="30" />
-        <mark key="^" line="34" column="30" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/DaoManager.java" timestamp="1559151752111">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomer.java" timestamp="1558326588357">
         <mark key="[" line="2" column="30" />
@@ -1282,11 +1284,11 @@
         <mark key="." line="15" column="79" />
         <mark key="^" line="15" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/controller/CustomerServlet.java" timestamp="1558921307931">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
-        <mark key="^" line="22" column="8" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/controller/CustomerServlet.java" timestamp="1559152207091">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="35" column="46" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/JSONStreamReader.java" timestamp="1509684919139">
         <mark key="[" line="1" column="0" />
@@ -1427,11 +1429,11 @@
         <mark key="^" line="49" column="6" />
         <mark key="." line="49" column="6" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/customer.jsp" timestamp="1558917141282">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/customer.jsp" timestamp="1559153005182">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="5" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateconstofficerepMergeService.java" timestamp="1512695612713">
         <mark key="[" line="14" column="8" />
@@ -1761,46 +1763,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICBpZiAocHJlcGFyZWRTdGF0ZW1lbnQgIT0gbnVsbCkKICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LmNsb3NlKCk7CiAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICBEYW9NYW5hZ2VyIGRtID0gQ29ubmVjdGlvbkZhY3RvcnkuY3JlYXRlRGFvTWFuYWdlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkIGJsYWNrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRhYmxlLCB0aCwgdGQgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">Q3VzdG9tZXJzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">bWVzc2FnZTogJHttZXNzYWdlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0qLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jb25uICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgY3VzdGxpc3QuYWRkKChDdXN0b21lciljdXN0SXRyLm5leHQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIC8qd2hpbGUgKGN1c3RJdHIuaGFzTmV4dCgpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEl0ZXJhdG9yIGN1c3RJdHIgPSBjdXN0b21lcnMuaXRlcmF0b3IoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1846,7 +1848,6 @@
         <entry>964</entry>
         <entry>%s/utteranceBlock/transcriptionBlock/g</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>%s/Grammer/VMLanguage/g</entry>
         <entry>%s/Grammar/VMLanguage/g</entry>
         <entry>%s/VMLanguage/Grammar/g</entry>
@@ -1856,6 +1857,7 @@
         <entry>%s/next/nextLine/g</entry>
         <entry>wq</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
