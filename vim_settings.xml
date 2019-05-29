@@ -722,7 +722,7 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558908790353">
+      <file name="/Dummy.txt" timestamp="1559150115987">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LogoutServlet.java" timestamp="1542259148250">
@@ -1451,10 +1451,11 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/pom.xml" timestamp="1558980745478">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Workspace/webappexample1/pom.xml" timestamp="1559150102291">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Billdiscussion.java" timestamp="1528236502800">
         <mark key="[" line="200" column="36" />
@@ -1759,11 +1760,11 @@
       <jump line="72" column="2" filename="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/DaoManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
@@ -1772,31 +1773,31 @@
         <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICBpZiAocHJlcGFyZWRTdGF0ZW1lbnQgIT0gbnVsbCkKICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LmNsb3NlKCk7CiAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICA8IS0tIEZJWE1FIGNoYW5nZSBpdCB0byB0aGUgcHJvamVjdCdzIHdlYnNpdGUgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29ubi5jbG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jb25uICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByZXBhcmVkU3RhdGVtZW50LmNsb3NlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jb25uICE9IG51bGwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L215c3FsL215c3FsLWNvbm5lY3Rvci1qYXZhIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
