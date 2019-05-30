@@ -175,7 +175,7 @@
         <mark key="^" line="33" column="64" />
         <mark key="." line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/myservlet-test/pom.xml" timestamp="1558912838227">
+      <file name="$USER_HOME$/Workspace/myservlet-test/pom.xml" timestamp="1559244571813">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="28" column="5" />
         <mark key="." line="28" column="5" />
@@ -625,11 +625,6 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/ConnectionFactory.java" timestamp="1558504065472">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/ConstitutionalOfficeMergeService.java" timestamp="1510207688885">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="2" />
@@ -707,11 +702,6 @@
         <mark key="]" line="35" column="8" />
         <mark key="." line="35" column="8" />
         <mark key="^" line="35" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/Dao.java" timestamp="1558905635015">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/Utility.java" timestamp="1513398801140">
         <mark key="[" line="71" column="24" />
@@ -1481,10 +1471,11 @@
         <mark key="." line="94" column="40" />
         <mark key="^" line="94" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/pom.xml" timestamp="1559242012265">
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="57" column="4" />
+      <file name="$USER_HOME$/Workspace/webappexample1/pom.xml" timestamp="1559244702428">
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Billdiscussion.java" timestamp="1528236502800">
         <mark key="[" line="200" column="36" />
@@ -1789,8 +1780,8 @@
       <jump line="72" column="2" filename="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/DaoManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1802,31 +1793,31 @@
         <text encoding="base64">ICAgIDxSZXNvdXJjZSBuYW1lPSJqZGJjL3RrdWJvaSIgYXV0aD0iQ29udGFpbmVyIiB0eXBlPSJqYXZheC5zcWwuRGF0YVNvdXJjZSIKICAgICAgICAgICAgICBtYXhUb3RhbD0iMTAwIiBtYXhJZGxlPSIzMCIgbWF4V2FpdE1pbGxpcz0iMTAwMDAiCiAgICAgICAgICAgICAgdXNlcm5hbWU9InRvc2hpIiBwYXNzd29yZD0ia3Vib2kxOTkyIiBkcml2ZXJDbGFzc05hbWU9ImNvbS5teXNxbC5jai5qZGJjLkRyaXZlciIKICAgICAgICAgICAgICB1cmw9ImpkYmM6bXlzcWw6Ly9jc2MzNjUudG9zaGlrdWJvaS5uZXQ6MzMwNi90a3Vib2kiIGZhY3Rvcnk9Im9yZy5hcGFjaGUudG9tY2F0LmpkYmMucG9vbC5EYXRhU291cmNlRmFjdG9yeSIvPgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUudG9tY2F0L3RvbWNhdCAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBpZCA9IEludGVnZXIucGFyc2VJbnQocmVxdWVzdC5nZXRQYXJhbWV0ZXIoImlkIikpOwo=</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbWVyIGN1c3RvbWVyID0gTmUK</text>
+        <text encoding="base64">ICAgICAgICA8dHlwZT5wb208L3R5cGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHN1Ym1pdD48L3N1Ym1pdD4K</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj44LjUuNDE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGlucHV0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD50b21jYXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0QXR0cmlidXRlKCJtZXNzYWdlIiwgIkhlbGxvIFdvcmxkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnRvbWNhdDwvZ3JvdXBJZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkNvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLnRvbWNhdC90b21jYXQgLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUudG9tY2F0L3RvbWNhdCAtLT4K</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
