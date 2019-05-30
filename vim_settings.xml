@@ -725,8 +725,10 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559242050662">
+      <file name="/Dummy.txt" timestamp="1559242714198">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LogoutServlet.java" timestamp="1542259148250">
         <mark key="[" line="19" column="64" />
@@ -794,11 +796,11 @@
         <mark key="." line="54" column="14" />
         <mark key="^" line="54" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/META-INF/context.xml" timestamp="1558980805433">
-        <mark key="[" line="29" column="54" />
-        <mark key="]" line="28" column="81" />
-        <mark key="^" line="28" column="81" />
-        <mark key="." line="28" column="81" />
+      <file name="$USER_HOME$/Workspace/webappexample1/src/main/webapp/META-INF/context.xml" timestamp="1559243789010">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="66" />
+        <mark key="^" line="34" column="126" />
+        <mark key="." line="29" column="66" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/RetrieveRekognitionService.java" timestamp="1541822047525">
         <mark key="[" line="35" column="49" />
@@ -1291,6 +1293,12 @@
         <mark key="]" line="15" column="79" />
         <mark key="." line="15" column="79" />
         <mark key="^" line="15" column="79" />
+      </file>
+      <file name="$USER_HOME$/Workspace/webappexample1/README.md" timestamp="1559242685250">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="41" column="48" />
+        <mark key="^" line="41" column="48" />
+        <mark key="." line="41" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/controller/CustomerServlet.java" timestamp="1559181417223">
         <mark key="[" line="17" column="36" />
@@ -1791,7 +1799,7 @@
         <text encoding="base64">XDxJdOKAmXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJlcGFyZWRTdGF0ZW1lbnQuc2V0SW50KDEsIG9iai5nZXRTc24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxSZXNvdXJjZSBuYW1lPSJqZGJjL3RrdWJvaSIgYXV0aD0iQ29udGFpbmVyIiB0eXBlPSJqYXZheC5zcWwuRGF0YVNvdXJjZSIKICAgICAgICAgICAgICBtYXhUb3RhbD0iMTAwIiBtYXhJZGxlPSIzMCIgbWF4V2FpdE1pbGxpcz0iMTAwMDAiCiAgICAgICAgICAgICAgdXNlcm5hbWU9InRvc2hpIiBwYXNzd29yZD0ia3Vib2kxOTkyIiBkcml2ZXJDbGFzc05hbWU9ImNvbS5teXNxbC5jai5qZGJjLkRyaXZlciIKICAgICAgICAgICAgICB1cmw9ImpkYmM6bXlzcWw6Ly9jc2MzNjUudG9zaGlrdWJvaS5uZXQ6MzMwNi90a3Vib2kiIGZhY3Rvcnk9Im9yZy5hcGFjaGUudG9tY2F0LmpkYmMucG9vbC5EYXRhU291cmNlRmFjdG9yeSIvPgoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPCEtLSBodHRwczovL212bnJlcG9zaXRvcnkuY29tL2FydGlmYWN0L29yZy5hcGFjaGUudG9tY2F0L3RvbWNhdCAtLT4K</text>
