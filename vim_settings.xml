@@ -150,11 +150,11 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerFrame2.java" timestamp="1560373818043">
-        <mark key="[" line="223" column="10" />
-        <mark key="]" line="272" column="89" />
-        <mark key="^" line="272" column="89" />
-        <mark key="." line="272" column="89" />
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerFrame2.java" timestamp="1560376506915">
+        <mark key="[" line="312" column="6" />
+        <mark key="]" line="312" column="7" />
+        <mark key="^" line="312" column="7" />
+        <mark key="." line="312" column="7" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -736,12 +736,12 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerTableModel2.java" timestamp="1560373669398">
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerTableModel2.java" timestamp="1560376402943">
         <mark key="'" line="158" column="0" />
-        <mark key="[" line="201" column="6" />
-        <mark key="]" line="170" column="7" />
-        <mark key="^" line="170" column="7" />
-        <mark key="." line="170" column="7" />
+        <mark key="[" line="215" column="6" />
+        <mark key="]" line="215" column="7" />
+        <mark key="^" line="215" column="7" />
+        <mark key="." line="215" column="7" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/config/config.properties" timestamp="1541704626179">
         <mark key="[" line="22" column="56" />
@@ -920,8 +920,10 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerResultSetDaoImpl.java" timestamp="1560366992626">
-        <mark key="[" line="37" column="30" />
+      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerResultSetDaoImpl.java" timestamp="1560376662144">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
         <mark key="[" line="11" column="62" />
@@ -1631,7 +1633,6 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CustomerDaoImpl.java" timestamp="1560366956359" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/HearingAgenda.java" timestamp="1530131927578">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="8" column="25" />
@@ -1796,11 +1797,11 @@
       <jump line="158" column="0" filename="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerTableModel2.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>M</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJlc3VsdFNldCByZXN1bHRTZXQgPSBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -1809,31 +1810,31 @@
         <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHByZXBhcmVkU3RhdGVtZW50ID0gdGhpcy5jb25uLnByZXBhcmVTdGF0ZW1lbnQoIlNFTEVDVCAqIEZST00gQ3VzdG9tZXIiKTsKICAgICAgcmVzdWx0U2V0ID0gcHJlcGFyZWRTdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCk7CiAgICAgIHJldHVybiByZXN1bHRTZXQ7CiAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0U2V0ID0gcHJlcGFyZWRTdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIFJlc3VsdFNldCByZXN1bHRTZXQgPSBudWxsOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0U2V0ID0gcHJlcGFyZWRTdGF0ZW1lbnQuZXhlY3V0ZVF1ZXJ5KCk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy90aGlzLmN1c3RvbWVyUm93U2V0LnVwZGF0ZVJvdygpOwo=</text>
+        <text encoding="base64">ICAgIFJlc3VsdFNldCByZXN1bHRTZXQgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC51cGRhdGVTdHJpbmcoY29sdW1uSW5kZXggKyAxLCAoU3RyaW5nKSBhVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgLy90aGlzLmN1c3RvbWVyUm93U2V0LnVwZGF0ZVJvdygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC5hYnNvbHV0ZShyb3dJbmRleCArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC51cGRhdGVTdHJpbmcoY29sdW1uSW5kZXggKyAxLCAoU3RyaW5nKSBhVmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXN0b21lclJvd1NldC5hYnNvbHV0ZShyb3dJbmRleCArIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsZTIucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
