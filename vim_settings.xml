@@ -138,6 +138,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/CoolCarController.java" timestamp="1562446041067">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="28" column="2" />
+        <mark key="^" line="28" column="2" />
+        <mark key="." line="28" column="2" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/manageTasks.js" timestamp="1521602039208">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="21" />
@@ -516,6 +522,12 @@
         <mark key="^" line="41" column="20" />
         <mark key="." line="68" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1562445440938">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="27" column="2" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateAgencyRepMergeService.java" timestamp="1518053636999">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="59" />
@@ -754,13 +766,6 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/view/CustomerTableModel2.java" timestamp="1560376402943">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="215" column="6" />
-        <mark key="]" line="215" column="7" />
-        <mark key="^" line="215" column="7" />
-        <mark key="." line="215" column="7" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/config/config.properties" timestamp="1541704626179">
         <mark key="[" line="22" column="56" />
         <mark key="]" line="22" column="102" />
@@ -796,6 +801,12 @@
         <mark key="]" line="42" column="33" />
         <mark key="^" line="42" column="33" />
         <mark key="." line="42" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/CarRepository.java" timestamp="1562445388324">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/approvedVideosScript.jsp" timestamp="1508532185864">
         <mark key="[" line="0" column="0" />
@@ -1062,6 +1073,9 @@
         <mark key="]" line="33" column="46" />
         <mark key="^" line="33" column="46" />
         <mark key="." line="33" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/Car.java" timestamp="1562445149663">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/templates/hello.html" timestamp="1562206234540">
         <mark key="'" line="5" column="16" />
@@ -1845,10 +1859,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
