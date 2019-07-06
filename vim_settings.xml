@@ -510,11 +510,11 @@
         <mark key="^" line="3" column="61" />
         <mark key="." line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/pom.xml" timestamp="1562205664839">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="41" column="20" />
+      <file name="$USER_HOME$/Workspace/gradzilla/pom.xml" timestamp="1562379421016">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="21" />
         <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+        <mark key="." line="68" column="21" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/StateAgencyRepMergeService.java" timestamp="1518053636999">
         <mark key="[" line="70" column="0" />
@@ -1845,10 +1845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
