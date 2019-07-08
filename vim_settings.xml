@@ -150,6 +150,12 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1562550473602">
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
         <mark key="[" line="104" column="29" />
         <mark key="]" line="104" column="35" />
@@ -1446,10 +1452,11 @@
         <mark key="^" line="13" column="49" />
         <mark key="." line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1562377932350">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1562549816290">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/TasksController.java" timestamp="1534739072317">
         <mark key="[" line="61" column="88" />
@@ -1859,10 +1866,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
