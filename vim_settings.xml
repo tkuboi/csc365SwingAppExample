@@ -224,7 +224,7 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Author.java" timestamp="1508886538009">
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Author.java" timestamp="1562646808969">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="24" column="1" />
         <mark key="^" line="24" column="1" />
@@ -362,6 +362,7 @@
         <mark key="." line="91" column="3" />
         <mark key="^" line="91" column="3" />
       </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Bill.java" timestamp="1562646836618" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CreateVideosService.java" timestamp="1507598690711">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="64" column="2" />
