@@ -200,11 +200,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/Assignment.java" timestamp="1562655365266">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/Assignment.java" timestamp="1562659333033">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtServiceRequestsRepository.java" timestamp="1519958416061">
         <mark key="[" line="11" column="105" />
@@ -1897,11 +1897,11 @@
       <jump line="4" column="16" filename="$USER_HOME$/Workspace/gradzilla/src/main/resources/templates/hello.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5hbm5vdGF0aW9uLklkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
