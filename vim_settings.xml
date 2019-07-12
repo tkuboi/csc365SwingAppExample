@@ -1787,11 +1787,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1562966435882">
-        <mark key="[" line="116" column="10" />
-        <mark key="]" line="116" column="10" />
-        <mark key="." line="116" column="10" />
-        <mark key="^" line="116" column="9" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1562968452034">
+        <mark key="[" line="121" column="29" />
+        <mark key="]" line="121" column="30" />
+        <mark key="." line="121" column="30" />
+        <mark key="^" line="121" column="30" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
         <mark key="[" line="10" column="29" />
@@ -1960,8 +1960,8 @@
       <jump line="118" column="28" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIG91dHB1dC5hcHBlbmQoIjxicj4iKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1970,7 +1970,7 @@
         <text>flow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3VibWlzc2lvbi5zZXRTdGF0dXMoU3VibWlzc2lvbi5TdGF0dXMuR1JBREVELnRvU3RyaW5nKCkpOyovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG91dHB1dC5hcHBlbmQoIjxicj4iKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
