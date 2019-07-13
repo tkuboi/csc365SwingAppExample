@@ -156,11 +156,11 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1562979981366">
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1562980860318">
         <mark key="'" line="128" column="28" />
-        <mark key="[" line="74" column="107" />
-        <mark key="]" line="74" column="107" />
-        <mark key="." line="74" column="107" />
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="34" />
+        <mark key="." line="78" column="34" />
         <mark key="^" line="80" column="53" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
@@ -1963,10 +1963,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
