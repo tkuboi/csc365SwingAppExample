@@ -649,11 +649,10 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserRepository.java" timestamp="1563005669894">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserRepository.java" timestamp="1563042767901">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/HttpServletRequestService.java" timestamp="1512695063487">
         <mark key="[" line="11" column="8" />
@@ -1167,11 +1166,11 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563041772852">
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563042998021">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
@@ -1981,10 +1980,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
@@ -1993,31 +1992,31 @@
         <text encoding="base64">ICBAQ29sdW1uKG5hbWU9Im5hbWUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBMaXN0PFVzZXI+IGZpbmRBbGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTdWJtaXNzaW9uIGZpbmRPbmUoSW50ZWdlciBpZCk7Cg==</text>
+        <text encoding="base64">ICBMaXN0PFVzZXI+IGZpbmRBbGxPcmRlckJ5TmFtZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8R3JhZGVyUmVzdWx0RHRvPiBncmFkZXJSZXN1bHREdG9zID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdyYWRlclJlc3VsdER0byBncmFkZXJSZXN1bHREdG8gPSBudWxsOwo=</text>
+        <text encoding="base64">ICBTdWJtaXNzaW9uIGZpbmRPbmUoSW50ZWdlciBpZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgIExpc3Q8R3JhZGVyUmVzdWx0RHRvPiBncmFkZXJSZXN1bHREdG9zID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdWJtaXNzaW9uIGZpbmRCeUlkKEludGVnZXIgaWQpOwo=</text>
+        <text encoding="base64">ICAgIEdyYWRlclJlc3VsdER0byBncmFkZXJSZXN1bHREdG8gPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL291dHB1dC5hcHBlbmQobGluZSk7Cg==</text>
+        <text encoding="base64">ICBTdWJtaXNzaW9uIGZpbmRCeUlkKEludGVnZXIgaWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3VibWlzc2lvbi5zZXRTdGF0dXMoU3VibWlzc2lvbi5TdGF0dXMuR1JBREVELnRvU3RyaW5nKCkpOyovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
