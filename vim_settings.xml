@@ -153,6 +153,7 @@
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/security/TTPasswordEncoder.java" timestamp="1563045180989" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/manageTasks.js" timestamp="1521602039208">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="21" />
@@ -381,13 +382,6 @@
         <mark key="]" line="11" column="7" />
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/TaskGenerationService.java" timestamp="1562800947292">
-        <mark key="'" line="894" column="9" />
-        <mark key="[" line="782" column="29" />
-        <mark key="]" line="782" column="29" />
-        <mark key="." line="782" column="29" />
-        <mark key="^" line="782" column="29" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/tmpl/manageTasks-tmpl.jsp" timestamp="1513662189836">
         <mark key="[" line="44" column="32" />
