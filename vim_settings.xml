@@ -15,7 +15,7 @@
         <mark key="^" line="71" column="123" />
         <mark key="." line="71" column="123" />
       </file>
-      <file name="/a.dummy" timestamp="1563044713007">
+      <file name="/a.dummy" timestamp="1563046194729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtterance.java" timestamp="1510530792925">
@@ -1163,11 +1163,11 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563044825871">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="30" column="85" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563046153939">
+        <mark key="[" line="26" column="86" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="26" column="85" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
@@ -1563,11 +1563,11 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/PasswordEncoderService.java" timestamp="1563045475649">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/PasswordEncoderService.java" timestamp="1563045820720">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/User.java" timestamp="1563005521447">
         <mark key="[" line="13" column="16" />
@@ -1983,10 +1983,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFBhc3N3b3JkRW5jb2RlclNlcnZpY2UgcGFzc3dvcmRFbmNvZGVyU2VydmljZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
@@ -1995,31 +1995,31 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFBhc3N3b3JkRW5jb2RlclNlcnZpY2UgcGFzc3dvcmRFbmNvZGVyU2VydmljZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpZ2VzdFV0aWxzID0gbmV3IERpZ2VzdFV0aWxzKCk7Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5EaWdlc3RVdGlsczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIERpZ2VzdFV0aWxzIGRpZ2VzdFV0aWxzOwo=</text>
+        <text encoding="base64">ICAgIGRpZ2VzdFV0aWxzID0gbmV3IERpZ2VzdFV0aWxzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2RlYy5kaWdlc3QuRGlnZXN0VXRpbHM7Cg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIERpZ2VzdFV0aWxzIGRpZ2VzdFV0aWxzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMaXN0PFVzZXI+IGZpbmRBbGwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2RlYy5kaWdlc3QuRGlnZXN0VXRpbHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
