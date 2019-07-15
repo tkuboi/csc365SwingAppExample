@@ -166,13 +166,6 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1563006107876">
-        <mark key="'" line="128" column="28" />
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="34" />
-        <mark key="." line="78" column="34" />
-        <mark key="^" line="80" column="53" />
-      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
         <mark key="[" line="104" column="29" />
         <mark key="]" line="104" column="35" />
@@ -262,6 +255,9 @@
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1563228130145">
+        <mark key="[" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/PropertyValues.java" timestamp="1525223988663">
         <mark key="[" line="14" column="97" />
@@ -1028,11 +1024,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563226358780">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="1" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563226605421">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
         <mark key="[" line="11" column="62" />
@@ -2019,31 +2015,31 @@
         <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vL2xvY2FsaG9zdDo0MjAwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vL2xvY2FsaG9zdDo0MjAwIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHBTZWN1cml0eS5leGNlcHRpb25IYW5kbGluZygpLgo=</text>
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vL2xvY2FsaG9zdDo0MjAwIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGZpbmFsIGNsYXNzIFJlc3RBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vL2xvY2FsaG9zdDo0MjAwIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFNpbXBsZVVybEF1dGhlbnRpY2F0aW9uRmFpbHVyZUhhbmRsZXIgZmFpbHVyZUhhbmRsZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgIGh0dHBTZWN1cml0eS5leGNlcHRpb25IYW5kbGluZygpLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFJvbGUoKSB7CiAgICByZXR1cm4gcm9sZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJvbGUoU3RyaW5nIHJvbGUpIHsKICAgIHRoaXMucm9sZSA9IHJvbGU7CiAgfQoKICBwdWJsaWMgYm9vbGVhbiBpc0FjdGl2ZSgpIHsKICAgIHJldHVybiBhY3RpdmU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBY3RpdmUoYm9vbGVhbiBhY3RpdmUpIHsKICAgIHRoaXMuYWN0aXZlID0gYWN0aXZlOwogIH0K</text>
+        <text encoding="base64">cHVibGljIGZpbmFsIGNsYXNzIFJlc3RBdXRoZW50aWNhdGlvbkVudHJ5UG9pbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFJvbGUoKSB7CiAgICByZXR1cm4gcm9sZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJvbGUoU3RyaW5nIHJvbGUpIHsKICAgIHRoaXMucm9sZSA9IHJvbGU7CiAgfQoKICBwdWJsaWMgYm9vbGVhbiBpc0FjdGl2ZSgpIHsKICAgIHJldHVybiBhY3RpdmU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBY3RpdmUoYm9vbGVhbiBhY3RpdmUpIHsKICAgIHRoaXMuYWN0aXZlID0gYWN0aXZlOwogIH0KCiAgcHVibGljIHN0YXRpYyBlbnVtIFJvbGUgewo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFNpbXBsZVVybEF1dGhlbnRpY2F0aW9uRmFpbHVyZUhhbmRsZXIgZmFpbHVyZUhhbmRsZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyRGV0YWlscyB7Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBhc3N3b3JkRW5jb2RlclNlcnZpY2UgcGFzc3dvcmRFbmNvZGVyU2VydmljZTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFJvbGUoKSB7CiAgICByZXR1cm4gcm9sZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFJvbGUoU3RyaW5nIHJvbGUpIHsKICAgIHRoaXMucm9sZSA9IHJvbGU7CiAgfQoKICBwdWJsaWMgYm9vbGVhbiBpc0FjdGl2ZSgpIHsKICAgIHJldHVybiBhY3RpdmU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBY3RpdmUoYm9vbGVhbiBhY3RpdmUpIHsKICAgIHRoaXMuYWN0aXZlID0gYWN0aXZlOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
