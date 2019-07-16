@@ -667,7 +667,7 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/WebConfiguration.java" timestamp="1563253864331">
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/WebConfiguration.java" timestamp="1563254520717">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="51" />
         <mark key="." line="17" column="51" />
@@ -1198,10 +1198,11 @@
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthorizationFilter.java" timestamp="1563230187518">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563253628947">
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="69" />
-        <mark key="." line="44" column="69" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563255223516">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
