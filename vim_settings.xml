@@ -255,10 +255,11 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1563229119656">
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1563301056846">
+        <mark key="[" line="63" column="15" />
+        <mark key="]" line="63" column="14" />
+        <mark key="." line="63" column="14" />
+        <mark key="^" line="63" column="14" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/PropertyValues.java" timestamp="1525223988663">
         <mark key="[" line="14" column="97" />
@@ -2035,17 +2036,17 @@
       <jump line="12" column="68" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uV2ViTXZjQ29uZmlndXJlckFkYXB0ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICB0aGlzLmVtYWlsID0gZW1haWw7CiAgICB0aGlzLmZpcnN0ID0gZmlyc3Q7CiAgICB0aGlzLmxhc3QgPSBsYXN0OwogICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgdGhpcy5yb2xlID0gcm9sZTsKICAgIHRoaXMuYWN0aXZlID0gYWN0aXZlOwo=</text>
+        <text encoding="base64">ICAgIHB3LnByaW50KHRva2VuKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuY29uZmlnLmFubm90YXRpb24uV2ViTXZjQ29uZmlndXJlckFkYXB0ZXI7Cg==</text>
