@@ -255,11 +255,11 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1563308544610">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="12" />
-        <mark key="^" line="62" column="20" />
-        <mark key="." line="63" column="12" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1563318005732">
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="14" />
+        <mark key="^" line="64" column="14" />
+        <mark key="." line="64" column="14" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/PropertyValues.java" timestamp="1525223988663">
         <mark key="[" line="14" column="97" />
@@ -2037,10 +2037,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
