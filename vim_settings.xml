@@ -563,11 +563,11 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/course/CourseRepository.java" timestamp="1563329739484">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="41" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/course/CourseRepository.java" timestamp="1563329933906">
+        <mark key="[" line="11" column="84" />
+        <mark key="]" line="11" column="84" />
         <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="41" />
+        <mark key="." line="11" column="84" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/header.jsp" timestamp="1529047170894">
         <mark key="[" line="110" column="20" />
@@ -2057,10 +2057,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
