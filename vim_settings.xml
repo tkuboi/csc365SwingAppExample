@@ -21,6 +21,9 @@
         <mark key="^" line="71" column="123" />
         <mark key="." line="71" column="123" />
       </file>
+      <file name="/a.dummy" timestamp="1563253521481">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/InitialUtterance.java" timestamp="1510530792925">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="30" />
@@ -146,6 +149,9 @@
         <mark key="]" line="15" column="22" />
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDetailServiceImpl.java" timestamp="1563044313185">
+        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/resources/properties/mysql-properties.xml" timestamp="1558337681619">
         <mark key="[" line="6" column="18" />
@@ -580,11 +586,11 @@
         <mark key="^" line="242" column="118" />
         <mark key="." line="242" column="118" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/utils/RestResponseDto.java" timestamp="1563471807999">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="21" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/utils/RestResponseDto.java" timestamp="1563479752424">
+        <mark key="[" line="49" column="3" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/discoveredVideos.jsp" timestamp="1508534148770">
         <mark key="[" line="3" column="0" />
@@ -983,6 +989,9 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
+      <file name="/fragment.java" timestamp="1563479696811">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
         <mark key="[" line="191" column="34" />
         <mark key="]" line="191" column="34" />
@@ -1054,11 +1063,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563472637212">
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563480039048">
         <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="60" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="30" column="60" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
         <mark key="[" line="11" column="62" />
@@ -1120,11 +1129,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1563472322314">
-        <mark key="[" line="19" column="47" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="32" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1563479390322">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" timestamp="1563320805961">
         <mark key="[" line="86" column="9" />
@@ -1191,6 +1200,9 @@
         <mark key="^" line="33" column="46" />
         <mark key="." line="33" column="46" />
       </file>
+      <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/Car.java" timestamp="1562445149663">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackAnalyzer.java" timestamp="1545793006658">
         <mark key="[" line="16" column="73" />
         <mark key="]" line="16" column="76" />
@@ -1209,11 +1221,11 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563255223516">
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563480003895">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
@@ -1257,8 +1269,8 @@
         <mark key="^" line="129" column="41" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderController.java" timestamp="1563472201665">
-        <mark key="[" line="54" column="36" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderController.java" timestamp="1563479826806">
+        <mark key="[" line="57" column="62" />
         <mark key="]" line="56" column="44" />
         <mark key="." line="56" column="44" />
         <mark key="^" line="56" column="44" />
@@ -1951,6 +1963,9 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="44" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/controller/HelloController.java" timestamp="1562205304286">
+        <mark key="[" line="1" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="11" filename="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/JackTokenizer.java" />
@@ -2055,8 +2070,8 @@
       <jump line="12" column="68" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdCgpIHsKICAgIHJldHVybiBvYmplY3Q7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPYmplY3QoT2JqZWN0IG9iamVjdCkgewogICAgdGhpcy5vYmplY3QgPSBvYmplY3Q7CiAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -2068,16 +2083,16 @@
         <text encoding="base64">RFJPUCBUQUJMRSBpZiBleGlzdHMgR3JhZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdCgpIHsKICAgIHJldHVybiBvYmplY3Q7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPYmplY3QoT2JqZWN0IG9iamVjdCkgewogICAgdGhpcy5vYmplY3QgPSBvYmplY3Q7CiAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICArICIvIiArIHVzZXJJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJjb3B5IikK</text>
+        <text encoding="base64">ICAgICAgICArICIvIiArIHVzZXJJZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJjb3B5IikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
@@ -2092,7 +2107,7 @@
         <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBxdWFydGVyIEVOVU0oJ0ZhbGwnLCAnV2ludGVyJywgJ1NwcmluZycsICdTdW1tZXInKSwK</text>
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
