@@ -84,7 +84,12 @@
         <mark key="^" line="67" column="111" />
         <mark key="." line="67" column="111" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/data/tables.sql" timestamp="1563324409345" />
+      <file name="$USER_HOME$/Workspace/gradzilla/data/tables.sql" timestamp="1563467101047">
+        <mark key="[" line="68" column="56" />
+        <mark key="]" line="77" column="48" />
+        <mark key="^" line="77" column="48" />
+        <mark key="." line="77" column="48" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/json/CustomJsonableSerializer.java" timestamp="1509950972090">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="44" column="0" />
@@ -160,7 +165,6 @@
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/config/security/TTPasswordEncoder.java" timestamp="1563046709108" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/resources/js/app/manageTasks.js" timestamp="1521602039208">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="21" />
@@ -1112,11 +1116,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1562726493268">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1563467422841">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" timestamp="1563320805961">
         <mark key="[" line="86" column="9" />
@@ -1204,9 +1208,6 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthorizationFilter.java" timestamp="1563230187518">
-        <mark key="[" line="2" column="35" />
-      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563255223516">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="25" />
@@ -1254,6 +1255,12 @@
         <mark key="]" line="131" column="0" />
         <mark key="^" line="129" column="41" />
         <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderController.java" timestamp="1563467842025">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/project10/src/com/tk/JackAnalyzer.java" timestamp="1545273870688">
         <mark key="[" line="15" column="8" />
@@ -2050,8 +2057,8 @@
       <jump line="12" column="68" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>E</text>
@@ -2063,31 +2070,31 @@
         <text encoding="base64">ICBAQ29sdW1uKG5hbWU9InVzZXIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdWFydGVyIEVOVU0oJ0ZhbGwnLCAnV2ludGVyJywgJ1NwcmluZycsICdTdW1tZXInKSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB5ZWFyIFlFQVIoNCksCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBzZWN0aW9uIElOVCwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb3Vyc2UgVkFSQ0hBUigxNiksCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBxdWFydGVyIEVOVU0oJ0ZhbGwnLCAnV2ludGVyJywgJ1NwcmluZycsICdTdW1tZXInKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB5ZWFyIFlFQVIoNCksCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzZWN0aW9uIElOVCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb3Vyc2UgVkFSQ0hBUigxNiksCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZmFrZUJhY2tlbmRQcm92aWRlciB9IGZyb20gJy4vaGVscGVycyc7Cg==</text>
+        <text encoding="base64">ICBAQ3Jvc3NPcmlnaW4ob3JpZ2lucyA9ICJodHRwOi8vbG9jYWxob3N0OjQyMDAiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZmFrZUJhY2tlbmRQcm92aWRlciB9IGZyb20gJy4vaGVscGVycyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAodXNlciAhPSBudWxsKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
