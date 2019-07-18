@@ -1063,11 +1063,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563480039048">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1563481324578">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
         <mark key="[" line="11" column="62" />
@@ -1651,11 +1651,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/User.java" timestamp="1563237625613">
-        <mark key="[" line="86" column="3" />
-        <mark key="]" line="87" column="1" />
-        <mark key="." line="87" column="1" />
-        <mark key="^" line="87" column="1" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/User.java" timestamp="1563480920780">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="91" column="1" />
+        <mark key="." line="91" column="1" />
+        <mark key="^" line="91" column="1" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/CombinedRepresentations.java" timestamp="1510531314370">
         <mark key="[" line="75" column="18" />
@@ -2070,11 +2070,11 @@
       <jump line="12" column="68" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0IGdldE9iamVjdCgpIHsKICAgIHJldHVybiBvYmplY3Q7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPYmplY3QoT2JqZWN0IG9iamVjdCkgewogICAgdGhpcy5vYmplY3QgPSBvYmplY3Q7CiAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
