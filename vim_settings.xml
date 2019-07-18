@@ -81,11 +81,11 @@
         <mark key="^" line="67" column="111" />
         <mark key="." line="67" column="111" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/data/tables.sql" timestamp="1563467101047">
-        <mark key="[" line="68" column="56" />
-        <mark key="]" line="77" column="48" />
-        <mark key="^" line="77" column="48" />
-        <mark key="." line="77" column="48" />
+      <file name="$USER_HOME$/Workspace/gradzilla/data/tables.sql" timestamp="1563477114384">
+        <mark key="[" line="77" column="44" />
+        <mark key="]" line="77" column="44" />
+        <mark key="^" line="79" column="1" />
+        <mark key="." line="77" column="44" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/utilities/json/CustomJsonableSerializer.java" timestamp="1509950972090">
         <mark key="[" line="12" column="0" />
@@ -2056,16 +2056,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>flow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZXhpdENvZGUgPSBleGl0Q29kZTsKICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2U7CiAgICB0aGlzLnN0YXR1cyA9IHN0YXR1czsK</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBpZiBleGlzdHMgR3JhZGVyOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
