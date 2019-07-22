@@ -1265,11 +1265,11 @@
         <mark key="^" line="129" column="41" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderController.java" timestamp="1563753729724">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="47" column="75" />
-        <mark key="." line="47" column="75" />
-        <mark key="^" line="47" column="75" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderController.java" timestamp="1563829222851">
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="17" />
+        <mark key="." line="49" column="17" />
+        <mark key="^" line="49" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/project10/src/com/tk/JackAnalyzer.java" timestamp="1545273870688">
         <mark key="[" line="15" column="8" />
@@ -2057,16 +2057,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRPcGVuKEludGVnZXIgb3BlbikgewogICAgdGhpcy5vcGVuICA9IG5ldyBUaW1lc3RhbXAob3Blbik7CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0LnNldFN0YXR1cyhSZXN0UmVzcG9uc2VEdG8uU3RhdHVzLkVSUk9SLm5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFR5cGUoKSB7CiAgICByZXR1cm4gdHlwZTsKICB9CgogIHB1YmxpYyB2b2lkIHNldFR5cGUoU3RyaW5nIHR5cGUpIHsKICAgIHRoaXMudHlwZSA9IHR5cGU7CiAgfQoK</text>
