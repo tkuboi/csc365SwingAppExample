@@ -1219,10 +1219,10 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1563480003895">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1564192320296">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
@@ -2059,10 +2059,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
