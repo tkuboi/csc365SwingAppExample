@@ -1901,11 +1901,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1562968452034">
-        <mark key="[" line="121" column="29" />
-        <mark key="]" line="121" column="30" />
-        <mark key="." line="121" column="30" />
-        <mark key="^" line="121" column="30" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1564260754092">
+        <mark key="[" line="85" column="23" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
         <mark key="[" line="10" column="29" />
@@ -2075,10 +2075,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
