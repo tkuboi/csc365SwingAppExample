@@ -171,12 +171,12 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1564344255051">
-        <mark key="'" line="125" column="28" />
-        <mark key="[" line="60" column="56" />
-        <mark key="]" line="60" column="73" />
-        <mark key="." line="60" column="73" />
-        <mark key="^" line="60" column="73" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1564348409262">
+        <mark key="'" line="122" column="28" />
+        <mark key="[" line="28" column="72" />
+        <mark key="]" line="29" column="29" />
+        <mark key="^" line="29" column="29" />
+        <mark key="." line="29" column="29" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
         <mark key="[" line="104" column="29" />
@@ -1002,7 +1002,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1564342802795">
+      <file name="/fragment.java" timestamp="1564348262602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
@@ -1142,6 +1142,13 @@
         <mark key="]" line="32" column="17" />
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" timestamp="1563485213127">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/controller/AccountController.java" timestamp="1542346601767">
         <mark key="[" line="9" column="11" />
@@ -1908,11 +1915,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1564347406430">
-        <mark key="[" line="104" column="6" />
-        <mark key="]" line="104" column="7" />
-        <mark key="^" line="104" column="7" />
-        <mark key="." line="104" column="7" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1564348319510">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="53" column="99" />
+        <mark key="^" line="53" column="99" />
+        <mark key="." line="53" column="99" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
         <mark key="[" line="10" column="29" />
@@ -2082,10 +2089,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ID0gZS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -2094,31 +2101,31 @@
         <text encoding="base64">ICAgICAgcmVzdWx0ID0gZS5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VibWlzc2lvbi5zZXRSZXN1bHQocmVzdWx0KTsKICAgICAgc3VibWlzc2lvbi5zZXRTY29yZShzY29yZSk7CiAgICAgIHN1Ym1pc3Npb24uc2V0U3RhdHVzKFN1Ym1pc3Npb24uU3RhdHVzLkdSQURFRC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pc3Npb25SZXBvc2l0b3J5LnNhdmUoc3VibWlzc2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgR3JhZGVyU2VydmljZSBncmFkZXJTZXJ2aWNlID0gbmV3IEdyYWRlclNlcnZpY2UoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VibWlzc2lvblJlcG9zaXRvcnkuc2F2ZShzdWJtaXNzaW9uKTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZSA9IGdyYWRlUmVzdWx0LmdldFJlc3VsdCgpOwogICAgICBzY29yZSA9IGdyYWRlUmVzdWx0LmdldFNjb3JlKCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB3b3JrRGlyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8R3JhZGVyPiBncmFkZXJzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMud29ya0RpciA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXNzaWdubWVudCA9IGFzc2lnbm1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ3JhZGVycyA9IGdyYWRlcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRBc3NpZ25tZW50KEludGVnZXIgYXNzaWdubWVudCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
