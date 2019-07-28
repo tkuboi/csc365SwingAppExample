@@ -171,12 +171,12 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1564348409262">
-        <mark key="'" line="122" column="28" />
-        <mark key="[" line="28" column="72" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="29" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionController.java" timestamp="1564355534293">
+        <mark key="'" line="124" column="28" />
+        <mark key="[" line="51" column="54" />
+        <mark key="]" line="51" column="54" />
+        <mark key="^" line="51" column="70" />
+        <mark key="." line="51" column="54" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Committee.java" timestamp="1509747340178">
         <mark key="[" line="104" column="29" />
@@ -189,6 +189,12 @@
         <mark key="]" line="312" column="7" />
         <mark key="^" line="312" column="7" />
         <mark key="." line="312" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/utils/Md5Hashing.java" timestamp="1564355603107">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="47" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2091,13 +2097,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add styles to admin and student pages
-Fix auth guard and navigations
-Add logout button
-Format dates</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
