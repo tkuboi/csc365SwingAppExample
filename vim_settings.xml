@@ -861,7 +861,7 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564352915427">
+      <file name="/Dummy.txt" timestamp="1564357132343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1923,11 +1923,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1564348319510">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="53" column="99" />
-        <mark key="^" line="53" column="99" />
-        <mark key="." line="53" column="99" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1564356875946">
+        <mark key="[" line="91" column="14" />
+        <mark key="]" line="91" column="14" />
+        <mark key="." line="91" column="14" />
+        <mark key="^" line="86" column="32" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
         <mark key="[" line="10" column="29" />
@@ -2106,40 +2106,40 @@
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ID0gZS5nZXRNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR3JhZGVyUmVzdWx0RHRvIHJlc3VsdER0byA9IGdldE91dHB1dChwcm9jKTsKICAgICAgICAgICAgcmVzdWx0ICs9IHJlc3VsdER0by5nZXRSZXN1bHQoKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ICs9IHJlc3VsdER0by5nZXRSZXN1bHQoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgR3JhZGVyUmVzdWx0RHRvIHJlc3VsdER0byA9IGdldE91dHB1dChwcm9jKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgKHdvcmtlci5leGl0ID09IDEpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>Add styles to admin and student pages
 Fix auth guard and navigations
 Add logout button
 Format dates</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgR3JhZGVyU2VydmljZSBncmFkZXJTZXJ2aWNlID0gbmV3IEdyYWRlclNlcnZpY2UoCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB3b3JrRGlyOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8R3JhZGVyPiBncmFkZXJzOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMud29ya0RpciA9IG51bGw7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JhZGVycyA9IGdyYWRlcnM7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2193,8 +2193,8 @@ Format dates</text>
         <entry>27</entry>
         <entry>w</entry>
         <entry>%s/name/username/g</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
