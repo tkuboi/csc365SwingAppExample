@@ -855,8 +855,10 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564194208980">
+      <file name="/Dummy.txt" timestamp="1564352915427">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LogoutServlet.java" timestamp="1542259148250">
         <mark key="[" line="19" column="64" />
@@ -2088,8 +2090,11 @@
       <jump line="10" column="24" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Add styles to admin and student pages
+Fix auth guard and navigations
+Add logout button
+Format dates</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -2100,32 +2105,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVzdWx0ID0gZS5nZXRNZXNzYWdlKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
+      <register name="1" type="4">
+        <text>Add styles to admin and student pages
+Fix auth guard and navigations
+Add logout button
+Format dates</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgR3JhZGVyU2VydmljZSBncmFkZXJTZXJ2aWNlID0gbmV3IEdyYWRlclNlcnZpY2UoCg==</text>
+        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgR3JhZGVyU2VydmljZSBncmFkZXJTZXJ2aWNlID0gbmV3IEdyYWRlclNlcnZpY2UoCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB3b3JrRGlyOwo=</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIExpc3Q8R3JhZGVyPiBncmFkZXJzOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB3b3JrRGlyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMud29ya0RpciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIExpc3Q8R3JhZGVyPiBncmFkZXJzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JhZGVycyA9IGdyYWRlcnM7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMud29ya0RpciA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ3JhZGVycyA9IGdyYWRlcnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
