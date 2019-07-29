@@ -196,6 +196,11 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/grader/grader.component.html" timestamp="1564430116161">
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="65" column="50" />
+        <mark key="." line="65" column="50" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
         <mark key="]" line="74" column="55" />
@@ -1055,6 +1060,12 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/edit-course/edit-course.component.html" timestamp="1564430189438">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="51" />
+        <mark key="." line="30" column="51" />
+        <mark key="^" line="36" column="3" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CombinedRepresentationsMergeService.java" timestamp="1512695006042">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="33" column="52" />
@@ -1150,6 +1161,11 @@
         <mark key="]" line="32" column="17" />
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/submission/submission.component.html" timestamp="1564429891486">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" timestamp="1563485213127">
         <mark key="'" line="10" column="24" />
@@ -1251,11 +1267,22 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/login/login.component.html" timestamp="1564429935104">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1564192320296">
         <mark key="[" line="39" column="27" />
         <mark key="]" line="39" column="27" />
         <mark key="." line="39" column="27" />
         <mark key="^" line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/edit-assignment/edit-assignment.component.html" timestamp="1564430045224">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="49" column="3" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="3" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
@@ -2097,10 +2124,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -2109,34 +2136,31 @@
         <text encoding="base64">ICAgICAgICAgICAgR3JhZGVyUmVzdWx0RHRvIHJlc3VsdER0byA9IGdldE91dHB1dChwcm9jKTsKICAgICAgICAgICAgcmVzdWx0ICs9IHJlc3VsdER0by5nZXRSZXN1bHQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImxvYWRpbmciIGNsYXNzPSJzcGlubmVyLWJvcmRlciBzcGlubmVyLWJvcmRlci1zbSBtci0xIj48L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImxvYWRpbmciIGNsYXNzPSJzcGlubmVyLWJvcmRlciBzcGlubmVyLWJvcmRlci1zbSBtci0xIj48L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ICs9IHJlc3VsdER0by5nZXRSZXN1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImxvYWRpbmciIGNsYXNzPSJzcGlubmVyLWJvcmRlciBzcGlubmVyLWJvcmRlci1zbSBtci0xIj48L3NwYW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR3JhZGVyUmVzdWx0RHRvIHJlc3VsdER0byA9IGdldE91dHB1dChwcm9jKTsK</text>
+        <text encoding="base64">ICAgPG1hdC1jYXJkLWFjdGlvbnM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgKHdvcmtlci5leGl0ID09IDEpIHsK</text>
+        <text encoding="base64">ICAgIDxtYXQtc3Bpbm5lciBbc3R5bGUuZGlzcGxheV09InNob3dTcGlubmVyID8gJ2Jsb2NrJyA6ICdub25lJyI+PC9tYXQtc3Bpbm5lcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImxvYWRpbmciIGNsYXNzPSJzcGlubmVyLWJvcmRlciBzcGlubmVyLWJvcmRlci1zbSBtci0xIj48L3NwYW4+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Add styles to admin and student pages
-Fix auth guard and navigations
-Add logout button
-Format dates</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImxvYWRpbmciIGNsYXNzPSJzcGlubmVyLWJvcmRlciBzcGlubmVyLWJvcmRlci1zbSBtci0xIj48L3NwYW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBncmFkZXJSZXBvc2l0b3J5LmZpbmRBbGxCeUFzc2lnbm1lbnRPcmRlckJ5U2VxKGFzc2lnbm1lbnRJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UgaWYgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgR3JhZGVyU2VydmljZSBncmFkZXJTZXJ2aWNlID0gbmV3IEdyYWRlclNlcnZpY2UoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
