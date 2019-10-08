@@ -1041,10 +1041,11 @@
       <file name="/fragment.java" timestamp="1569365937184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1570495595894">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1570498179398">
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="30" />
+        <mark key="^" line="71" column="30" />
+        <mark key="." line="71" column="30" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
         <mark key="[" line="191" column="34" />
@@ -2157,44 +2158,44 @@
       <jump line="10" column="24" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9uZSwgQ2FwYWNpdHk6IDMiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RfZW5xdWV1ZSgpCiAgICAgICAgc2VsZi50ZXN0X2RlcXVldWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgPSBteV9xdWV1ZS5kZXF1ZXVlKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHZhbCwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9uZSwgQ2FwYWNpdHk6IDMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBteV9xdWV1ZS5kZXF1ZXVlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhJbmRleEVycm9yLCBteV9saW5rZWQuZW5xdWV1ZSwgOSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9kZSg0LCBOb25lKSwgQ2FwYWNpdHk6IDMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X2xpbmtlZC5oZWFkLCBOb2RlKDcsIE5vZGUoNiwgTm9kZSg1LCBOb25lKSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
+        <text encoding="base64">ICAgICAgICBteV9saW5rZWQuZW5xdWV1ZSg1KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9kZSg1LCBOb2RlKDQsIE5vbmUpKSwgQ2FwYWNpdHk6IDMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X2xpbmtlZC5oZWFkLCBOb2RlKDcsIE5vZGUoNiwgTm9uZSkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
+        <text encoding="base64">ICAgICAgICBteV9saW5rZWQuZW5xdWV1ZSg2KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUFycmF5OiBbXSwgQ2FwYWNpdHk6IDQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X2xpbmtlZC5oZWFkLCBOb2RlKDcsIE5vbmUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X3F1ZXVlLl9fcmVwcl9fKCksIFwK</text>
+        <text encoding="base64">ICAgICAgICBteV9saW5rZWQuZW5xdWV1ZSg3KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUFycmF5OiBbMV0sIENhcGFjaXR5OiA0IikK</text>
+        <text encoding="base64">ICAgICAgICBteV9saW5rZWQgPSBRdWV1ZUxpbmtlZCgzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
