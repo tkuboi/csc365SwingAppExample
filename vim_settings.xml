@@ -1041,10 +1041,10 @@
       <file name="/fragment.java" timestamp="1569365937184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1570422801014">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1570495595894">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
         <mark key="[" line="191" column="34" />
@@ -2158,7 +2158,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RfcGVlaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9uZSwgQ2FwYWNpdHk6IDMiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -2170,31 +2170,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RfZW5xdWV1ZSgpCiAgICAgICAgc2VsZi50ZXN0X2RlcXVldWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3RfcGVlaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9uZSwgQ2FwYWNpdHk6IDMiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X3F1ZXVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBteV9xdWV1ZSA9IFF1ZXVlQXJyYXkoMykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9kZSg0LCBOb25lKSwgQ2FwYWNpdHk6IDMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2luaXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBlcm1fbGV4KHN0cmluZyksIFsnYWJjZCcsICdhYmRjJywgJ2FjYmQnLCAnYWNkYicsICdhZGJjJywgJ2FkY2InLCAnYmFjZCcsICdiYWRjJywgJ2JjYWQnLCAnYmNkYScsICdiZGFjJywgJ2JkY2EnLCAnY2FiZCcsICdjYWRiJywgJ2NiYWQnLCAnY2JkYScsICdjZGFiJywgJ2NkYmEnLCAnZGFiYycsICdkYWNiJywgJ2RiYWMnLCAnZGJjYScsICdkY2FiJywgJ2RjYmEnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUxpbmtlZDogTm9kZSg1LCBOb2RlKDQsIE5vbmUpKSwgQ2FwYWNpdHk6IDMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgPSAiYWJjZCIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlcHIobXlfbGlua2VkKSwgXAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Blcm1fbGV4NChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUFycmF5OiBbXSwgQ2FwYWNpdHk6IDQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X3F1ZXVlLl9fcmVwcl9fKCksIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHBlcm1fbGV4KHN0cmluZyksIFsnYWJjJywgJ2FjYicsICdiYWMnLCAnYmNhJywgJ2NhYicsICdjYmEnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJRdWV1ZUFycmF5OiBbMV0sIENhcGFjaXR5OiA0IikK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
