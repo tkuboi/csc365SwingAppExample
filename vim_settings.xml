@@ -733,6 +733,13 @@
         <mark key="." line="2" column="51" />
         <mark key="^" line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" timestamp="1571521001629">
+        <mark key="'" line="107" column="19" />
+        <mark key="[" line="112" column="44" />
+        <mark key="]" line="112" column="48" />
+        <mark key="." line="112" column="48" />
+        <mark key="^" line="112" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/WebConfiguration.java" timestamp="1563254520717">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="51" />
@@ -2062,7 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/SymbolTable.java" />
       <jump line="11" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/SymbolTable.java" />
       <jump line="33" column="14" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/VMWriter.java" />
@@ -2162,16 +2168,17 @@
       <jump line="10" column="24" filename="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDto.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" />
+      <jump line="107" column="19" filename="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>peek</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgzKSwgMikK</text>
@@ -2204,21 +2211,20 @@
         <text encoding="base64">ICAgICAgICBteV9xdWV1ZS5lbnF1ZXVlKDIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChteV9xdWV1ZS5pdGVtcywgWzAsIDEsIDIsIE5vbmVdKQogICAgICAgIHNlbGYuYXNzZXJ0UmFpc2VzKEluZGV4RXJyb3IsIG15X3F1ZXVlLmVucXVldWUsIDMpCgogICAgICAgIHZhbCA9IG15X3F1ZXVlLmRlcXVldWUoKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodmFsLCAwKQogICAgICAgIG15X3F1ZXVlLmVucXVldWUoMykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG15X3F1ZXVlLnNpemUoKSwgMykKICAgICAgICB2YWwgPSBteV9xdWV1ZS5kZXF1ZXVlKCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHZhbCwgMSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/result/accum</text>
       </register>
     </registers>
     <search>
-      <last-search>peek</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>peek</last-pattern>
-      <last-replace>username</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>result</last-pattern>
+      <last-replace>accum</last-replace>
+      <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Memory</entry>
         <entry>writeKeyword</entry>
         <entry>that</entry>
         <entry>THAT</entry>
@@ -2238,9 +2244,9 @@
         <entry>flow</entry>
         <entry>name</entry>
         <entry>peek</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry>545</entry>
         <entry>309</entry>
         <entry>202</entry>
         <entry>162</entry>
@@ -2260,6 +2266,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>%s/result/accum</entry>
       </history-cmd>
       <history-expr />
       <history-input />
