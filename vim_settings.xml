@@ -200,11 +200,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572232548332">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572233045317">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="42" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2176,47 +2176,47 @@
       <jump line="107" column="19" filename="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoKSwgMykK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgzKSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5taW4odCksICdvbmUnKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoKSwgMykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoMCksIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5yZW1vdmUoMiksIDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5yZW1vdmUoNCksIC0xKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5zZWFyY2hfYmFja3dhcmQoMyksIFRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5zZWFyY2hfZm9yd2FyZCgzKSwgVHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobzEuaW50VmFsdWUoKSA9PSBvMi5pbnRWYWx1ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCg0KSwgLTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgzKSwgMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobzEuaW50VmFsdWUoKSA8IG8yLmludFZhbHVlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgyKSwgMSkK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/result/accum</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2270,8 +2270,8 @@
         <entry>%s/name/username/g</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
         <entry>%s/result/accum</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
