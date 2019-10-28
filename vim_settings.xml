@@ -200,12 +200,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572236927895">
-        <mark key="'" line="3" column="37" />
-        <mark key="[" line="65" column="25" />
-        <mark key="]" line="65" column="36" />
-        <mark key="^" line="65" column="36" />
-        <mark key="." line="65" column="36" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572239139498">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="60" column="31" />
+        <mark key="." line="45" column="36" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2075,7 +2075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="14" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/VMWriter.java" />
       <jump line="63" column="33" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
       <jump line="195" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
@@ -2175,16 +2174,17 @@
       <jump line="73" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" />
       <jump line="107" column="19" filename="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" />
       <jump line="3" column="37" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
+      <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>height</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHYubWFqb3IsICdDU0MnKQo=</text>
@@ -2221,9 +2221,9 @@
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>height</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>height</last-pattern>
       <last-replace>accum</last-replace>
       <last-substitute>result</last-substitute>
       <last-dir>1</last-dir>
@@ -2231,7 +2231,6 @@
     </search>
     <history>
       <history-search>
-        <entry>writeKeyword</entry>
         <entry>that</entry>
         <entry>THAT</entry>
         <entry>Term</entry>
@@ -2251,6 +2250,7 @@
         <entry>name</entry>
         <entry>peek</entry>
         <entry>result</entry>
+        <entry>height</entry>
       </history-search>
       <history-cmd>
         <entry>309</entry>
