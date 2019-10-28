@@ -200,6 +200,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572232548332">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
         <mark key="]" line="74" column="55" />
@@ -2170,8 +2176,8 @@
       <jump line="107" column="19" filename="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
