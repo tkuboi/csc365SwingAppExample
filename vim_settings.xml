@@ -200,12 +200,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572239139498">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572240320421">
         <mark key="'" line="41" column="12" />
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="60" column="31" />
-        <mark key="." line="45" column="36" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="64" column="98" />
+        <mark key="^" line="64" column="98" />
+        <mark key="." line="64" column="98" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
