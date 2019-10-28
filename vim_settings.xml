@@ -200,11 +200,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572233045317">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="42" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572236927895">
+        <mark key="'" line="3" column="37" />
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="36" />
+        <mark key="^" line="65" column="36" />
+        <mark key="." line="65" column="36" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2074,7 +2075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="15" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/SymbolTable.java" />
       <jump line="33" column="14" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/VMWriter.java" />
       <jump line="63" column="33" filename="$USER_HOME$/Workspace/Project11/src/com/tk/jack/compiler/CompilationEngine.java" />
@@ -2174,49 +2174,50 @@
       <jump line="55" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" />
       <jump line="107" column="19" filename="$USER_HOME$/Workspace/lectures/Fall2019/CPE202/bst.py" />
+      <jump line="3" column="37" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoKSwgMykK</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5taW4odCksICdvbmUnKSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHYubWFqb3IsICdDU0MnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoKSwgMykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuc2l6ZSgpLCA1NSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5wb3AoMCksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21heCh0KSwgJ2ZpdmUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5yZW1vdmUoMiksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21heCh0KSwgJ2ZpdmUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5yZW1vdmUoNCksIC0xKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21pbih0KSwgJ29uZScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5zZWFyY2hfYmFja3dhcmQoMyksIFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21heCh0KSwgJ3NldmVuJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5zZWFyY2hfZm9yd2FyZCgzKSwgVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21heCh0KSwgJ3NldmVuJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCg0KSwgLTEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5maW5kX21pbih0KSwgJ29uZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgzKSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQucmFuZ2Vfc2VhcmNoKCksIFtdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZGVyZWRfbGlzdC5pbmRleCgyKSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJzdC5wcmVvcmRlcl9saXN0KHQpLCBbXSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2269,9 +2270,9 @@
         <entry>27</entry>
         <entry>%s/name/username/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%s/result/accum</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
