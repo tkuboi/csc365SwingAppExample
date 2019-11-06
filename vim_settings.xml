@@ -966,11 +966,11 @@
         <mark key="^" line="1" column="77" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1572999981560">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1573001326116">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomerImpl.java" timestamp="1558327773055">
         <mark key="[" line="24" column="64" />
@@ -2176,44 +2176,44 @@
       <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIgPSBbMSwgMywgMiwgNSwgNF0KICAgICAgICBwcmludChhcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYXJyLCB2LCBlbmQgPSBtaC5kZWxfbWF4KCIsIGFyciwgIiwgIiwgZW5kLCAiKSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIgPSBoZWFwaWZ5KGFycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQua2V5LCA1KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhLZXlFcnJvciwgc2VhcmNoX2NsYXNzbWF0ZSwgdCwgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzEsIDIsIDMsIDMsIDNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHYubWFqb3IsICdDU0MnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQudHJlZS5rZXksIDUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ID0gc2VhcmNoX2NsYXNzbWF0ZSh0LCAyNCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQudHJlZV9oZWlnaHQoKSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuc2l6ZSgpLCA1NSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0LmRlbGV0ZSg0KQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NsYXNzbWF0ZXMoc2VsZik6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuZmluZF9tYXgoKSwgJ2ZpdmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ID0gaW1wb3J0X2NsYXNzbWF0ZXMoZmlsZW5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQudHJlZV9oZWlnaHQoKSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICcvaG9tZS9ncmFkemlsbGEvdXBsb2Fkcy9zdWJtaXNzaW9ucy9ncmFkZXJfcHJvZ3JhbXMvQ1BFMjAyL0xhYl81L2NsYXNzbWF0ZXMudHN2Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0LmRlbGV0ZSg3KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiYXJyLCB2LCBlbmQgPSBtaC5kZWxfbWF4KGFyciwgZW5kKSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
