@@ -966,11 +966,11 @@
         <mark key="^" line="1" column="77" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1573001326116">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="14" column="53" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1573005483161">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomerImpl.java" timestamp="1558327773055">
         <mark key="[" line="24" column="64" />
@@ -2176,47 +2176,47 @@
       <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYXJyLCB2LCBlbmQgPSBtaC5kZWxfbWF4KCIsIGFyciwgIiwgIiwgZW5kLCAiKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50KCJFcnJvciIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkVycm9yISIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhLZXlFcnJvciwgc2VhcmNoX2NsYXNzbWF0ZSwgdCwgMCkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHYubWFqb3IsICdDU0MnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ID0gc2VhcmNoX2NsYXNzbWF0ZSh0LCAyNCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkVycm9yISIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuc2l6ZSgpLCA1NSkK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NsYXNzbWF0ZXMoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gaW1wb3J0X2NsYXNzbWF0ZXMoZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICcvaG9tZS9ncmFkemlsbGEvdXBsb2Fkcy9zdWJtaXNzaW9ucy9ncmFkZXJfcHJvZ3JhbXMvQ1BFMjAyL0xhYl81L2NsYXNzbWF0ZXMudHN2Jwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhLZXlFcnJvciwgc2VhcmNoX2NsYXNzbWF0ZSwgdCwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiYXJyLCB2LCBlbmQgPSBtaC5kZWxfbWF4KGFyciwgZW5kKSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHYubWFqb3IsICdDU0MnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2270,8 +2270,8 @@
         <entry>%s/name/username/g</entry>
         <entry>q</entry>
         <entry>%s/result/accum</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
