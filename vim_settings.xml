@@ -200,7 +200,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1572994991626">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1573365653235">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="65" column="30" />
         <mark key="]" line="64" column="98" />
@@ -535,11 +535,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1573332888339">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="21" column="37" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1573365799637">
+        <mark key="[" line="92" column="55" />
+        <mark key="]" line="92" column="64" />
+        <mark key="." line="92" column="64" />
+        <mark key="^" line="92" column="64" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
         <mark key="[" line="2" column="40" />
@@ -2223,7 +2223,7 @@
         <text encoding="base64">ICAgICAgICBhcnIgPSBbNSwgNCwgMywgMiwgMV0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2277,8 +2277,8 @@
         <entry>%s/name/username/g</entry>
         <entry>q</entry>
         <entry>%s/result/accum</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
