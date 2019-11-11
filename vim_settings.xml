@@ -1428,6 +1428,12 @@
         <mark key="^" line="51" column="2" />
         <mark key="." line="51" column="2" />
       </file>
+      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtStarsExample.java" timestamp="1573432555162">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/VFTCallbackResult.java" timestamp="1509942539687">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1470,11 +1476,11 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtMoviesExample.java" timestamp="1558020169194">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="68" column="42" />
-        <mark key="." line="38" column="35" />
+      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtMoviesExample.java" timestamp="1573432393312">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="67" column="42" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/CachedDao.java" timestamp="1558504026687">
         <mark key="[" line="5" column="2" />
@@ -2184,7 +2190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHEuaW5zZXJ0KGkpCg==</text>
+        <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -2196,31 +2202,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHEuaW5zZXJ0KGkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1heF9oZWFwIGFzIG1oCg==</text>
+        <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfc29ydCgpCg==</text>
+        <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1heF9oZWFwIGFzIG1oCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfc29ydCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcnIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIgPSBbMV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzFdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzEsIDIsIDMsIDQsIDVdKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChhcnIpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhcnIgPSBbMV0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIgPSBbNSwgNCwgMywgMiwgMV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzEsIDIsIDMsIDQsIDVdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
