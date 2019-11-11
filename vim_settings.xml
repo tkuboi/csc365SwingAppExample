@@ -535,11 +535,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1573463757389">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1573497660315">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
         <mark key="[" line="2" column="40" />
@@ -2188,8 +2188,8 @@
       <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1VSUkRJUiA9ICIuLyIK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -2201,31 +2201,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHEuaW5zZXJ0KGkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
+        <text encoding="base64">Q1VSUkRJUiA9ICIuLyIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1heF9oZWFwIGFzIG1oCg==</text>
+        <text encoding="base64">ICAgICAgY29ubk9iai5jbG9zZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfc29ydCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1heF9oZWFwIGFzIG1oCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfc29ydCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzFdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzFdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIgPSBbMV0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNvcnQoYXJyKSwgWzEsIDIsIDMsIDQsIDVdKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcnIgPSBbMV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
