@@ -126,6 +126,12 @@
         <mark key="." line="84" column="5" />
         <mark key="^" line="84" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/lectures/Spring2019/CPE202/kevin_bacon.py" timestamp="1573772114827">
+        <mark key="[" line="162" column="48" />
+        <mark key="]" line="162" column="48" />
+        <mark key="." line="162" column="48" />
+        <mark key="^" line="162" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/PyGrader.java" timestamp="1562959264698">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
@@ -2188,11 +2194,11 @@
       <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q1VSUkRJUiA9ICIuLyIK</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
