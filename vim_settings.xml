@@ -541,11 +541,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1573716928313">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" timestamp="1574032888537">
+        <mark key="[" line="103" column="44" />
+        <mark key="]" line="103" column="48" />
+        <mark key="." line="103" column="48" />
+        <mark key="^" line="103" column="48" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
         <mark key="[" line="2" column="40" />
@@ -2195,10 +2195,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
