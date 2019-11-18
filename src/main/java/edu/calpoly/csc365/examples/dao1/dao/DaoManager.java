@@ -47,12 +47,7 @@ public class DaoManager {
   //Private
   private Connection conn;
 
-  private DaoManager() throws Exception {
-    try
-    {
-      //this.conn = ConnectionFactory.getConnection(this.driver, this.url, this.user, this.pass);
-    }
-    catch(Exception e) { throw e; }
+  private DaoManager() {
   }
 
   public static DaoManager getInstance() {
@@ -109,6 +104,10 @@ public class DaoManager {
 
   public CachedDao<Customer> getCustomerCachedDao() {
     return new CustomerCachedDaoImpl(this.conn);
+  }
+
+  public ResultSetDao<Customer> getCustomerResultSetDao() {
+    return new CustomerResultSetDaoImpl(this.conn);
   }
 
   public DaoManager setProperties(String fileName) throws IOException, SQLException {
