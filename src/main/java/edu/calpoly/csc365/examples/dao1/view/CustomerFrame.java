@@ -220,7 +220,7 @@ public class CustomerFrame extends JFrame implements RowSetListener {
 
         try {
           customerTableModel.insertRow(textFieldName.getText(),
-            Integer.parseInt(textFieldSsn.getText().trim()),
+            textFieldSsn.getText().trim(),
             textFieldAddress.getText().trim(),
             textFieldPhone.getText().trim());
           customerTableModel.customerRowSet.acceptChanges(

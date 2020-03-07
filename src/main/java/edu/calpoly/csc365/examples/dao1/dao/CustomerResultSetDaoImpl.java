@@ -41,7 +41,7 @@ public class CustomerResultSetDaoImpl implements ResultSetDao<Customer> {
     try {
       preparedStatement = this.conn.prepareStatement(
         "UPDATE Customer SET ssn=?, name=?, address=?, phone=? WHERE id=?");
-      preparedStatement.setInt(1, obj.getSsn());
+      preparedStatement.setString(1, obj.getSsn());
       preparedStatement.setString(2, obj.getName());
       preparedStatement.setString(3, obj.getAddress());
       preparedStatement.setString(4, obj.getPhone());

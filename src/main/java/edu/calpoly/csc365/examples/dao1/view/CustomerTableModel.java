@@ -177,14 +177,14 @@ public class CustomerTableModel implements TableModel {
     this.customerRowSet.addRowSetListener(listener);
   }
 
-  public void insertRow(String name, int ssn, String address,
+  public void insertRow(String name, String ssn, String address,
                         String phone) throws SQLException {
 
     try {
       this.customerRowSet.moveToInsertRow();
       this.customerRowSet.updateString("name", name);
       this.customerRowSet.updateNull("id");
-      this.customerRowSet.updateInt("ssn", ssn);
+      this.customerRowSet.updateString("ssn", ssn);
       this.customerRowSet.updateString("address", address);
       this.customerRowSet.updateString("phone", phone);
       this.customerRowSet.insertRow();

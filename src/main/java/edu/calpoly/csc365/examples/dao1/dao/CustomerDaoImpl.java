@@ -76,7 +76,7 @@ public class CustomerDaoImpl implements Dao<Customer> {
     try {
       preparedStatement = this.conn.prepareStatement(
         "INSERT INTO Customer (ssn, name, address, phone) VALUES (?, ?, ?, ?)");
-      preparedStatement.setInt(1, obj.getSsn());
+      preparedStatement.setString(1, obj.getSsn());
       preparedStatement.setString(2, obj.getName());
       preparedStatement.setString(3, obj.getAddress());
       preparedStatement.setString(4, obj.getPhone());
@@ -100,7 +100,7 @@ public class CustomerDaoImpl implements Dao<Customer> {
     try {
       preparedStatement = this.conn.prepareStatement(
         "UPDATE Customer SET ssn=?, name=?, address=?, phone=? WHERE id=?");
-      preparedStatement.setInt(1, obj.getSsn());
+      preparedStatement.setString(1, obj.getSsn());
       preparedStatement.setString(2, obj.getName());
       preparedStatement.setString(3, obj.getAddress());
       preparedStatement.setString(4, obj.getPhone());
@@ -145,7 +145,7 @@ public class CustomerDaoImpl implements Dao<Customer> {
     while(rs.next()) {
       Customer customer = new Customer(
         rs.getInt("id"),
-        rs.getInt("ssn"),
+        rs.getString("ssn"),
         rs.getString("name"),
         rs.getString("address"),
         rs.getString("phone"));
@@ -165,7 +165,7 @@ public class CustomerDaoImpl implements Dao<Customer> {
       Set<Customer> customers = customerDao.getAll();
       System.out.println(customers);
       Customer newCustomer
-        = new Customer(123456789, "Mary", "There", "8051112222");
+        = new Customer("123-45-6789", "Mary", "There", "805-111-2222");
       customerDao.insert(newCustomer);
       customers = customerDao.getAll();
       System.out.println(customers);
