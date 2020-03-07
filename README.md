@@ -1,6 +1,6 @@
 # csc365SwingAppExample
 
-create properties.xml file with the following content (replace the xxx with appropriate information) and execute the program by specifying CustomerFrame, which has the main function.
+create properties.xml file with the following content (replace the xxx with appropriate information).
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -30,4 +30,6 @@ CREATE TABLE Customer (
 ```
 run edu.calpoly.csc365.examples.dao1.view.CustomerFrame with the filepath/properties.xml as an application argument.
 For example,
+```
 :$ java edu.calpoly.csc365.examples.dao1.view.CustomerFrame csc365SwingAppExample/properties.xml
+```
